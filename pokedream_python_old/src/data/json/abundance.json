@@ -1,0 +1,3594 @@
+[
+    {
+        "species_id": 1,
+        "abundance": 512
+    },
+    {
+        "species_id": 2,
+        "abundance": 256
+    },
+    {
+        "species_id": 3,
+        "abundance": 96
+    },
+    {
+        "species_id": 4,
+        "abundance": 512
+    },
+    {
+        "species_id": 5,
+        "abundance": 256
+    },
+    {
+        "species_id": 6,
+        "abundance": 96
+    },
+    {
+        "species_id": 7,
+        "abundance": 512
+    },
+    {
+        "species_id": 8,
+        "abundance": 256
+    },
+    {
+        "species_id": 9,
+        "abundance": 96
+    },
+    {
+        "species_id": 10,
+        "abundance": 1536
+    },
+    {
+        "species_id": 11,
+        "abundance": 384
+    },
+    {
+        "species_id": 12,
+        "abundance": 96
+    },
+    {
+        "species_id": 13,
+        "abundance": 1536
+    },
+    {
+        "species_id": 14,
+        "abundance": 384
+    },
+    {
+        "species_id": 15,
+        "abundance": 96
+    },
+    {
+        "species_id": 16,
+        "abundance": 1536
+    },
+    {
+        "species_id": 17,
+        "abundance": 384
+    },
+    {
+        "species_id": 18,
+        "abundance": 96
+    },
+    {
+        "species_id": 19,
+        "abundance": 1024
+    },
+    {
+        "species_id": 20,
+        "abundance": 256
+    },
+    {
+        "species_id": 21,
+        "abundance": 384
+    },
+    {
+        "species_id": 22,
+        "abundance": 96
+    },
+    {
+        "species_id": 23,
+        "abundance": 384
+    },
+    {
+        "species_id": 24,
+        "abundance": 96
+    },
+    {
+        "species_id": 25,
+        "abundance": 384
+    },
+    {
+        "species_id": 26,
+        "abundance": 96
+    },
+    {
+        "species_id": 27,
+        "abundance": 384
+    },
+    {
+        "species_id": 28,
+        "abundance": 96
+    },
+    {
+        "species_id": 29,
+        "abundance": 1536
+    },
+    {
+        "species_id": 30,
+        "abundance": 384
+    },
+    {
+        "species_id": 31,
+        "abundance": 96
+    },
+    {
+        "species_id": 32,
+        "abundance": 1536
+    },
+    {
+        "species_id": 33,
+        "abundance": 384
+    },
+    {
+        "species_id": 34,
+        "abundance": 96
+    },
+    {
+        "species_id": 35,
+        "abundance": 384
+    },
+    {
+        "species_id": 36,
+        "abundance": 96
+    },
+    {
+        "species_id": 37,
+        "abundance": 384
+    },
+    {
+        "species_id": 38,
+        "abundance": 96
+    },
+    {
+        "species_id": 39,
+        "abundance": 384
+    },
+    {
+        "species_id": 40,
+        "abundance": 96
+    },
+    {
+        "species_id": 41,
+        "abundance": 1536
+    },
+    {
+        "species_id": 42,
+        "abundance": 384
+    },
+    {
+        "species_id": 43,
+        "abundance": 1536
+    },
+    {
+        "species_id": 44,
+        "abundance": 384
+    },
+    {
+        "species_id": 45,
+        "abundance": 96
+    },
+    {
+        "species_id": 46,
+        "abundance": 384
+    },
+    {
+        "species_id": 47,
+        "abundance": 96
+    },
+    {
+        "species_id": 48,
+        "abundance": 384
+    },
+    {
+        "species_id": 49,
+        "abundance": 96
+    },
+    {
+        "species_id": 50,
+        "abundance": 384
+    },
+    {
+        "species_id": 51,
+        "abundance": 96
+    },
+    {
+        "species_id": 52,
+        "abundance": 384
+    },
+    {
+        "species_id": 53,
+        "abundance": 96
+    },
+    {
+        "species_id": 54,
+        "abundance": 384
+    },
+    {
+        "species_id": 55,
+        "abundance": 96
+    },
+    {
+        "species_id": 56,
+        "abundance": 384
+    },
+    {
+        "species_id": 57,
+        "abundance": 96
+    },
+    {
+        "species_id": 58,
+        "abundance": 384
+    },
+    {
+        "species_id": 59,
+        "abundance": 96
+    },
+    {
+        "species_id": 60,
+        "abundance": 1536
+    },
+    {
+        "species_id": 61,
+        "abundance": 384
+    },
+    {
+        "species_id": 62,
+        "abundance": 96
+    },
+    {
+        "species_id": 63,
+        "abundance": 1536
+    },
+    {
+        "species_id": 64,
+        "abundance": 384
+    },
+    {
+        "species_id": 65,
+        "abundance": 96
+    },
+    {
+        "species_id": 66,
+        "abundance": 1536
+    },
+    {
+        "species_id": 67,
+        "abundance": 384
+    },
+    {
+        "species_id": 68,
+        "abundance": 96
+    },
+    {
+        "species_id": 69,
+        "abundance": 1536
+    },
+    {
+        "species_id": 70,
+        "abundance": 384
+    },
+    {
+        "species_id": 71,
+        "abundance": 96
+    },
+    {
+        "species_id": 72,
+        "abundance": 384
+    },
+    {
+        "species_id": 73,
+        "abundance": 96
+    },
+    {
+        "species_id": 74,
+        "abundance": 1536
+    },
+    {
+        "species_id": 75,
+        "abundance": 384
+    },
+    {
+        "species_id": 76,
+        "abundance": 96
+    },
+    {
+        "species_id": 77,
+        "abundance": 384
+    },
+    {
+        "species_id": 78,
+        "abundance": 96
+    },
+    {
+        "species_id": 79,
+        "abundance": 384
+    },
+    {
+        "species_id": 80,
+        "abundance": 96
+    },
+    {
+        "species_id": 81,
+        "abundance": 1536
+    },
+    {
+        "species_id": 82,
+        "abundance": 384
+    },
+    {
+        "species_id": 83,
+        "abundance": 96
+    },
+    {
+        "species_id": 84,
+        "abundance": 384
+    },
+    {
+        "species_id": 85,
+        "abundance": 96
+    },
+    {
+        "species_id": 86,
+        "abundance": 384
+    },
+    {
+        "species_id": 87,
+        "abundance": 96
+    },
+    {
+        "species_id": 88,
+        "abundance": 384
+    },
+    {
+        "species_id": 89,
+        "abundance": 96
+    },
+    {
+        "species_id": 90,
+        "abundance": 384
+    },
+    {
+        "species_id": 91,
+        "abundance": 96
+    },
+    {
+        "species_id": 92,
+        "abundance": 1536
+    },
+    {
+        "species_id": 93,
+        "abundance": 384
+    },
+    {
+        "species_id": 94,
+        "abundance": 96
+    },
+    {
+        "species_id": 95,
+        "abundance": 384
+    },
+    {
+        "species_id": 96,
+        "abundance": 384
+    },
+    {
+        "species_id": 97,
+        "abundance": 96
+    },
+    {
+        "species_id": 98,
+        "abundance": 384
+    },
+    {
+        "species_id": 99,
+        "abundance": 96
+    },
+    {
+        "species_id": 100,
+        "abundance": 384
+    },
+    {
+        "species_id": 101,
+        "abundance": 96
+    },
+    {
+        "species_id": 102,
+        "abundance": 384
+    },
+    {
+        "species_id": 103,
+        "abundance": 96
+    },
+    {
+        "species_id": 104,
+        "abundance": 384
+    },
+    {
+        "species_id": 105,
+        "abundance": 96
+    },
+    {
+        "species_id": 106,
+        "abundance": 96
+    },
+    {
+        "species_id": 107,
+        "abundance": 96
+    },
+    {
+        "species_id": 108,
+        "abundance": 384
+    },
+    {
+        "species_id": 109,
+        "abundance": 384
+    },
+    {
+        "species_id": 110,
+        "abundance": 96
+    },
+    {
+        "species_id": 111,
+        "abundance": 1536
+    },
+    {
+        "species_id": 112,
+        "abundance": 384
+    },
+    {
+        "species_id": 113,
+        "abundance": 384
+    },
+    {
+        "species_id": 114,
+        "abundance": 384
+    },
+    {
+        "species_id": 115,
+        "abundance": 96
+    },
+    {
+        "species_id": 116,
+        "abundance": 1536
+    },
+    {
+        "species_id": 117,
+        "abundance": 384
+    },
+    {
+        "species_id": 118,
+        "abundance": 384
+    },
+    {
+        "species_id": 119,
+        "abundance": 96
+    },
+    {
+        "species_id": 120,
+        "abundance": 384
+    },
+    {
+        "species_id": 121,
+        "abundance": 96
+    },
+    {
+        "species_id": 122,
+        "abundance": 96
+    },
+    {
+        "species_id": 123,
+        "abundance": 384
+    },
+    {
+        "species_id": 124,
+        "abundance": 96
+    },
+    {
+        "species_id": 125,
+        "abundance": 384
+    },
+    {
+        "species_id": 126,
+        "abundance": 384
+    },
+    {
+        "species_id": 127,
+        "abundance": 96
+    },
+    {
+        "species_id": 128,
+        "abundance": 96
+    },
+    {
+        "species_id": 129,
+        "abundance": 384
+    },
+    {
+        "species_id": 130,
+        "abundance": 96
+    },
+    {
+        "species_id": 131,
+        "abundance": 96
+    },
+    {
+        "species_id": 132,
+        "abundance": 96
+    },
+    {
+        "species_id": 133,
+        "abundance": 384
+    },
+    {
+        "species_id": 134,
+        "abundance": 96
+    },
+    {
+        "species_id": 135,
+        "abundance": 96
+    },
+    {
+        "species_id": 136,
+        "abundance": 96
+    },
+    {
+        "species_id": 137,
+        "abundance": 1536
+    },
+    {
+        "species_id": 138,
+        "abundance": 384
+    },
+    {
+        "species_id": 139,
+        "abundance": 96
+    },
+    {
+        "species_id": 140,
+        "abundance": 384
+    },
+    {
+        "species_id": 141,
+        "abundance": 96
+    },
+    {
+        "species_id": 142,
+        "abundance": 96
+    },
+    {
+        "species_id": 143,
+        "abundance": 96
+    },
+    {
+        "species_id": 144,
+        "abundance": 6
+    },
+    {
+        "species_id": 145,
+        "abundance": 6
+    },
+    {
+        "species_id": 146,
+        "abundance": 6
+    },
+    {
+        "species_id": 147,
+        "abundance": 1024
+    },
+    {
+        "species_id": 148,
+        "abundance": 256
+    },
+    {
+        "species_id": 149,
+        "abundance": 64
+    },
+    {
+        "species_id": 150,
+        "abundance": 6
+    },
+    {
+        "species_id": 151,
+        "abundance": 12
+    },
+    {
+        "species_id": 152,
+        "abundance": 512
+    },
+    {
+        "species_id": 153,
+        "abundance": 384
+    },
+    {
+        "species_id": 154,
+        "abundance": 96
+    },
+    {
+        "species_id": 155,
+        "abundance": 512
+    },
+    {
+        "species_id": 156,
+        "abundance": 384
+    },
+    {
+        "species_id": 157,
+        "abundance": 96
+    },
+    {
+        "species_id": 158,
+        "abundance": 512
+    },
+    {
+        "species_id": 159,
+        "abundance": 384
+    },
+    {
+        "species_id": 160,
+        "abundance": 96
+    },
+    {
+        "species_id": 161,
+        "abundance": 384
+    },
+    {
+        "species_id": 162,
+        "abundance": 96
+    },
+    {
+        "species_id": 163,
+        "abundance": 384
+    },
+    {
+        "species_id": 164,
+        "abundance": 96
+    },
+    {
+        "species_id": 165,
+        "abundance": 384
+    },
+    {
+        "species_id": 166,
+        "abundance": 96
+    },
+    {
+        "species_id": 167,
+        "abundance": 384
+    },
+    {
+        "species_id": 168,
+        "abundance": 96
+    },
+    {
+        "species_id": 169,
+        "abundance": 96
+    },
+    {
+        "species_id": 170,
+        "abundance": 384
+    },
+    {
+        "species_id": 171,
+        "abundance": 96
+    },
+    {
+        "species_id": 172,
+        "abundance": 96
+    },
+    {
+        "species_id": 173,
+        "abundance": 96
+    },
+    {
+        "species_id": 174,
+        "abundance": 96
+    },
+    {
+        "species_id": 175,
+        "abundance": 1536
+    },
+    {
+        "species_id": 176,
+        "abundance": 384
+    },
+    {
+        "species_id": 177,
+        "abundance": 384
+    },
+    {
+        "species_id": 178,
+        "abundance": 96
+    },
+    {
+        "species_id": 179,
+        "abundance": 1536
+    },
+    {
+        "species_id": 180,
+        "abundance": 384
+    },
+    {
+        "species_id": 181,
+        "abundance": 96
+    },
+    {
+        "species_id": 182,
+        "abundance": 96
+    },
+    {
+        "species_id": 183,
+        "abundance": 384
+    },
+    {
+        "species_id": 184,
+        "abundance": 96
+    },
+    {
+        "species_id": 185,
+        "abundance": 96
+    },
+    {
+        "species_id": 186,
+        "abundance": 96
+    },
+    {
+        "species_id": 187,
+        "abundance": 1536
+    },
+    {
+        "species_id": 188,
+        "abundance": 384
+    },
+    {
+        "species_id": 189,
+        "abundance": 96
+    },
+    {
+        "species_id": 190,
+        "abundance": 384
+    },
+    {
+        "species_id": 191,
+        "abundance": 384
+    },
+    {
+        "species_id": 192,
+        "abundance": 96
+    },
+    {
+        "species_id": 193,
+        "abundance": 384
+    },
+    {
+        "species_id": 194,
+        "abundance": 384
+    },
+    {
+        "species_id": 195,
+        "abundance": 96
+    },
+    {
+        "species_id": 196,
+        "abundance": 96
+    },
+    {
+        "species_id": 197,
+        "abundance": 96
+    },
+    {
+        "species_id": 198,
+        "abundance": 384
+    },
+    {
+        "species_id": 199,
+        "abundance": 96
+    },
+    {
+        "species_id": 200,
+        "abundance": 384
+    },
+    {
+        "species_id": 201,
+        "abundance": 96
+    },
+    {
+        "species_id": 202,
+        "abundance": 96
+    },
+    {
+        "species_id": 203,
+        "abundance": 96
+    },
+    {
+        "species_id": 204,
+        "abundance": 384
+    },
+    {
+        "species_id": 205,
+        "abundance": 96
+    },
+    {
+        "species_id": 206,
+        "abundance": 96
+    },
+    {
+        "species_id": 207,
+        "abundance": 384
+    },
+    {
+        "species_id": 208,
+        "abundance": 96
+    },
+    {
+        "species_id": 209,
+        "abundance": 384
+    },
+    {
+        "species_id": 210,
+        "abundance": 96
+    },
+    {
+        "species_id": 211,
+        "abundance": 96
+    },
+    {
+        "species_id": 212,
+        "abundance": 96
+    },
+    {
+        "species_id": 213,
+        "abundance": 96
+    },
+    {
+        "species_id": 214,
+        "abundance": 96
+    },
+    {
+        "species_id": 215,
+        "abundance": 384
+    },
+    {
+        "species_id": 216,
+        "abundance": 384
+    },
+    {
+        "species_id": 217,
+        "abundance": 96
+    },
+    {
+        "species_id": 218,
+        "abundance": 384
+    },
+    {
+        "species_id": 219,
+        "abundance": 96
+    },
+    {
+        "species_id": 220,
+        "abundance": 1536
+    },
+    {
+        "species_id": 221,
+        "abundance": 384
+    },
+    {
+        "species_id": 222,
+        "abundance": 96
+    },
+    {
+        "species_id": 223,
+        "abundance": 384
+    },
+    {
+        "species_id": 224,
+        "abundance": 96
+    },
+    {
+        "species_id": 225,
+        "abundance": 96
+    },
+    {
+        "species_id": 226,
+        "abundance": 96
+    },
+    {
+        "species_id": 227,
+        "abundance": 96
+    },
+    {
+        "species_id": 228,
+        "abundance": 384
+    },
+    {
+        "species_id": 229,
+        "abundance": 96
+    },
+    {
+        "species_id": 230,
+        "abundance": 96
+    },
+    {
+        "species_id": 231,
+        "abundance": 384
+    },
+    {
+        "species_id": 232,
+        "abundance": 96
+    },
+    {
+        "species_id": 233,
+        "abundance": 384
+    },
+    {
+        "species_id": 234,
+        "abundance": 96
+    },
+    {
+        "species_id": 235,
+        "abundance": 96
+    },
+    {
+        "species_id": 236,
+        "abundance": 384
+    },
+    {
+        "species_id": 237,
+        "abundance": 96
+    },
+    {
+        "species_id": 238,
+        "abundance": 96
+    },
+    {
+        "species_id": 239,
+        "abundance": 96
+    },
+    {
+        "species_id": 240,
+        "abundance": 96
+    },
+    {
+        "species_id": 241,
+        "abundance": 96
+    },
+    {
+        "species_id": 242,
+        "abundance": 96
+    },
+    {
+        "species_id": 243,
+        "abundance": 6
+    },
+    {
+        "species_id": 244,
+        "abundance": 6
+    },
+    {
+        "species_id": 245,
+        "abundance": 6
+    },
+    {
+        "species_id": 246,
+        "abundance": 1024
+    },
+    {
+        "species_id": 247,
+        "abundance": 256
+    },
+    {
+        "species_id": 248,
+        "abundance": 64
+    },
+    {
+        "species_id": 249,
+        "abundance": 6
+    },
+    {
+        "species_id": 250,
+        "abundance": 6
+    },
+    {
+        "species_id": 251,
+        "abundance": 12
+    },
+    {
+        "species_id": 252,
+        "abundance": 512
+    },
+    {
+        "species_id": 253,
+        "abundance": 384
+    },
+    {
+        "species_id": 254,
+        "abundance": 96
+    },
+    {
+        "species_id": 255,
+        "abundance": 512
+    },
+    {
+        "species_id": 256,
+        "abundance": 384
+    },
+    {
+        "species_id": 257,
+        "abundance": 96
+    },
+    {
+        "species_id": 258,
+        "abundance": 512
+    },
+    {
+        "species_id": 259,
+        "abundance": 384
+    },
+    {
+        "species_id": 260,
+        "abundance": 96
+    },
+    {
+        "species_id": 261,
+        "abundance": 384
+    },
+    {
+        "species_id": 262,
+        "abundance": 96
+    },
+    {
+        "species_id": 263,
+        "abundance": 384
+    },
+    {
+        "species_id": 264,
+        "abundance": 96
+    },
+    {
+        "species_id": 265,
+        "abundance": 1536
+    },
+    {
+        "species_id": 266,
+        "abundance": 384
+    },
+    {
+        "species_id": 267,
+        "abundance": 96
+    },
+    {
+        "species_id": 268,
+        "abundance": 384
+    },
+    {
+        "species_id": 269,
+        "abundance": 96
+    },
+    {
+        "species_id": 270,
+        "abundance": 1536
+    },
+    {
+        "species_id": 271,
+        "abundance": 384
+    },
+    {
+        "species_id": 272,
+        "abundance": 96
+    },
+    {
+        "species_id": 273,
+        "abundance": 1536
+    },
+    {
+        "species_id": 274,
+        "abundance": 384
+    },
+    {
+        "species_id": 275,
+        "abundance": 96
+    },
+    {
+        "species_id": 276,
+        "abundance": 384
+    },
+    {
+        "species_id": 277,
+        "abundance": 96
+    },
+    {
+        "species_id": 278,
+        "abundance": 384
+    },
+    {
+        "species_id": 279,
+        "abundance": 96
+    },
+    {
+        "species_id": 280,
+        "abundance": 1536
+    },
+    {
+        "species_id": 281,
+        "abundance": 384
+    },
+    {
+        "species_id": 282,
+        "abundance": 96
+    },
+    {
+        "species_id": 283,
+        "abundance": 384
+    },
+    {
+        "species_id": 284,
+        "abundance": 96
+    },
+    {
+        "species_id": 285,
+        "abundance": 384
+    },
+    {
+        "species_id": 286,
+        "abundance": 96
+    },
+    {
+        "species_id": 287,
+        "abundance": 1536
+    },
+    {
+        "species_id": 288,
+        "abundance": 384
+    },
+    {
+        "species_id": 289,
+        "abundance": 96
+    },
+    {
+        "species_id": 290,
+        "abundance": 384
+    },
+    {
+        "species_id": 291,
+        "abundance": 96
+    },
+    {
+        "species_id": 292,
+        "abundance": 96
+    },
+    {
+        "species_id": 293,
+        "abundance": 1536
+    },
+    {
+        "species_id": 294,
+        "abundance": 384
+    },
+    {
+        "species_id": 295,
+        "abundance": 96
+    },
+    {
+        "species_id": 296,
+        "abundance": 384
+    },
+    {
+        "species_id": 297,
+        "abundance": 96
+    },
+    {
+        "species_id": 298,
+        "abundance": 96
+    },
+    {
+        "species_id": 299,
+        "abundance": 384
+    },
+    {
+        "species_id": 300,
+        "abundance": 384
+    },
+    {
+        "species_id": 301,
+        "abundance": 96
+    },
+    {
+        "species_id": 302,
+        "abundance": 96
+    },
+    {
+        "species_id": 303,
+        "abundance": 96
+    },
+    {
+        "species_id": 304,
+        "abundance": 1536
+    },
+    {
+        "species_id": 305,
+        "abundance": 384
+    },
+    {
+        "species_id": 306,
+        "abundance": 96
+    },
+    {
+        "species_id": 307,
+        "abundance": 384
+    },
+    {
+        "species_id": 308,
+        "abundance": 96
+    },
+    {
+        "species_id": 309,
+        "abundance": 384
+    },
+    {
+        "species_id": 310,
+        "abundance": 96
+    },
+    {
+        "species_id": 311,
+        "abundance": 96
+    },
+    {
+        "species_id": 312,
+        "abundance": 96
+    },
+    {
+        "species_id": 313,
+        "abundance": 96
+    },
+    {
+        "species_id": 314,
+        "abundance": 96
+    },
+    {
+        "species_id": 315,
+        "abundance": 384
+    },
+    {
+        "species_id": 316,
+        "abundance": 384
+    },
+    {
+        "species_id": 317,
+        "abundance": 96
+    },
+    {
+        "species_id": 318,
+        "abundance": 384
+    },
+    {
+        "species_id": 319,
+        "abundance": 96
+    },
+    {
+        "species_id": 320,
+        "abundance": 384
+    },
+    {
+        "species_id": 321,
+        "abundance": 96
+    },
+    {
+        "species_id": 322,
+        "abundance": 384
+    },
+    {
+        "species_id": 323,
+        "abundance": 96
+    },
+    {
+        "species_id": 324,
+        "abundance": 96
+    },
+    {
+        "species_id": 325,
+        "abundance": 384
+    },
+    {
+        "species_id": 326,
+        "abundance": 96
+    },
+    {
+        "species_id": 327,
+        "abundance": 96
+    },
+    {
+        "species_id": 328,
+        "abundance": 1536
+    },
+    {
+        "species_id": 329,
+        "abundance": 384
+    },
+    {
+        "species_id": 330,
+        "abundance": 96
+    },
+    {
+        "species_id": 331,
+        "abundance": 384
+    },
+    {
+        "species_id": 332,
+        "abundance": 96
+    },
+    {
+        "species_id": 333,
+        "abundance": 384
+    },
+    {
+        "species_id": 334,
+        "abundance": 96
+    },
+    {
+        "species_id": 335,
+        "abundance": 96
+    },
+    {
+        "species_id": 336,
+        "abundance": 96
+    },
+    {
+        "species_id": 337,
+        "abundance": 96
+    },
+    {
+        "species_id": 338,
+        "abundance": 96
+    },
+    {
+        "species_id": 339,
+        "abundance": 384
+    },
+    {
+        "species_id": 340,
+        "abundance": 96
+    },
+    {
+        "species_id": 341,
+        "abundance": 384
+    },
+    {
+        "species_id": 342,
+        "abundance": 96
+    },
+    {
+        "species_id": 343,
+        "abundance": 384
+    },
+    {
+        "species_id": 344,
+        "abundance": 96
+    },
+    {
+        "species_id": 345,
+        "abundance": 384
+    },
+    {
+        "species_id": 346,
+        "abundance": 96
+    },
+    {
+        "species_id": 347,
+        "abundance": 384
+    },
+    {
+        "species_id": 348,
+        "abundance": 96
+    },
+    {
+        "species_id": 349,
+        "abundance": 384
+    },
+    {
+        "species_id": 350,
+        "abundance": 96
+    },
+    {
+        "species_id": 351,
+        "abundance": 96
+    },
+    {
+        "species_id": 352,
+        "abundance": 96
+    },
+    {
+        "species_id": 353,
+        "abundance": 384
+    },
+    {
+        "species_id": 354,
+        "abundance": 96
+    },
+    {
+        "species_id": 355,
+        "abundance": 1536
+    },
+    {
+        "species_id": 356,
+        "abundance": 384
+    },
+    {
+        "species_id": 357,
+        "abundance": 96
+    },
+    {
+        "species_id": 358,
+        "abundance": 96
+    },
+    {
+        "species_id": 359,
+        "abundance": 96
+    },
+    {
+        "species_id": 360,
+        "abundance": 96
+    },
+    {
+        "species_id": 361,
+        "abundance": 384
+    },
+    {
+        "species_id": 362,
+        "abundance": 96
+    },
+    {
+        "species_id": 363,
+        "abundance": 1536
+    },
+    {
+        "species_id": 364,
+        "abundance": 384
+    },
+    {
+        "species_id": 365,
+        "abundance": 96
+    },
+    {
+        "species_id": 366,
+        "abundance": 384
+    },
+    {
+        "species_id": 367,
+        "abundance": 96
+    },
+    {
+        "species_id": 368,
+        "abundance": 96
+    },
+    {
+        "species_id": 369,
+        "abundance": 96
+    },
+    {
+        "species_id": 370,
+        "abundance": 96
+    },
+    {
+        "species_id": 371,
+        "abundance": 1024
+    },
+    {
+        "species_id": 372,
+        "abundance": 256
+    },
+    {
+        "species_id": 373,
+        "abundance": 64
+    },
+    {
+        "species_id": 374,
+        "abundance": 1024
+    },
+    {
+        "species_id": 375,
+        "abundance": 256
+    },
+    {
+        "species_id": 376,
+        "abundance": 64
+    },
+    {
+        "species_id": 377,
+        "abundance": 6
+    },
+    {
+        "species_id": 378,
+        "abundance": 6
+    },
+    {
+        "species_id": 379,
+        "abundance": 6
+    },
+    {
+        "species_id": 380,
+        "abundance": 6
+    },
+    {
+        "species_id": 381,
+        "abundance": 6
+    },
+    {
+        "species_id": 382,
+        "abundance": 6
+    },
+    {
+        "species_id": 383,
+        "abundance": 6
+    },
+    {
+        "species_id": 384,
+        "abundance": 6
+    },
+    {
+        "species_id": 385,
+        "abundance": 12
+    },
+    {
+        "species_id": 386,
+        "abundance": 12
+    },
+    {
+        "species_id": 387,
+        "abundance": 512
+    },
+    {
+        "species_id": 388,
+        "abundance": 384
+    },
+    {
+        "species_id": 389,
+        "abundance": 96
+    },
+    {
+        "species_id": 390,
+        "abundance": 512
+    },
+    {
+        "species_id": 391,
+        "abundance": 384
+    },
+    {
+        "species_id": 392,
+        "abundance": 96
+    },
+    {
+        "species_id": 393,
+        "abundance": 512
+    },
+    {
+        "species_id": 394,
+        "abundance": 384
+    },
+    {
+        "species_id": 395,
+        "abundance": 96
+    },
+    {
+        "species_id": 396,
+        "abundance": 1536
+    },
+    {
+        "species_id": 397,
+        "abundance": 384
+    },
+    {
+        "species_id": 398,
+        "abundance": 96
+    },
+    {
+        "species_id": 399,
+        "abundance": 384
+    },
+    {
+        "species_id": 400,
+        "abundance": 96
+    },
+    {
+        "species_id": 401,
+        "abundance": 384
+    },
+    {
+        "species_id": 402,
+        "abundance": 96
+    },
+    {
+        "species_id": 403,
+        "abundance": 1536
+    },
+    {
+        "species_id": 404,
+        "abundance": 384
+    },
+    {
+        "species_id": 405,
+        "abundance": 96
+    },
+    {
+        "species_id": 406,
+        "abundance": 96
+    },
+    {
+        "species_id": 407,
+        "abundance": 96
+    },
+    {
+        "species_id": 408,
+        "abundance": 384
+    },
+    {
+        "species_id": 409,
+        "abundance": 96
+    },
+    {
+        "species_id": 410,
+        "abundance": 384
+    },
+    {
+        "species_id": 411,
+        "abundance": 96
+    },
+    {
+        "species_id": 412,
+        "abundance": 384
+    },
+    {
+        "species_id": 413,
+        "abundance": 96
+    },
+    {
+        "species_id": 414,
+        "abundance": 96
+    },
+    {
+        "species_id": 415,
+        "abundance": 384
+    },
+    {
+        "species_id": 416,
+        "abundance": 96
+    },
+    {
+        "species_id": 417,
+        "abundance": 96
+    },
+    {
+        "species_id": 418,
+        "abundance": 384
+    },
+    {
+        "species_id": 419,
+        "abundance": 96
+    },
+    {
+        "species_id": 420,
+        "abundance": 384
+    },
+    {
+        "species_id": 421,
+        "abundance": 96
+    },
+    {
+        "species_id": 422,
+        "abundance": 384
+    },
+    {
+        "species_id": 423,
+        "abundance": 96
+    },
+    {
+        "species_id": 424,
+        "abundance": 96
+    },
+    {
+        "species_id": 425,
+        "abundance": 384
+    },
+    {
+        "species_id": 426,
+        "abundance": 96
+    },
+    {
+        "species_id": 427,
+        "abundance": 384
+    },
+    {
+        "species_id": 428,
+        "abundance": 96
+    },
+    {
+        "species_id": 429,
+        "abundance": 96
+    },
+    {
+        "species_id": 430,
+        "abundance": 96
+    },
+    {
+        "species_id": 431,
+        "abundance": 384
+    },
+    {
+        "species_id": 432,
+        "abundance": 96
+    },
+    {
+        "species_id": 433,
+        "abundance": 96
+    },
+    {
+        "species_id": 434,
+        "abundance": 384
+    },
+    {
+        "species_id": 435,
+        "abundance": 96
+    },
+    {
+        "species_id": 436,
+        "abundance": 384
+    },
+    {
+        "species_id": 437,
+        "abundance": 96
+    },
+    {
+        "species_id": 438,
+        "abundance": 96
+    },
+    {
+        "species_id": 439,
+        "abundance": 96
+    },
+    {
+        "species_id": 440,
+        "abundance": 96
+    },
+    {
+        "species_id": 441,
+        "abundance": 96
+    },
+    {
+        "species_id": 442,
+        "abundance": 96
+    },
+    {
+        "species_id": 443,
+        "abundance": 1024
+    },
+    {
+        "species_id": 444,
+        "abundance": 256
+    },
+    {
+        "species_id": 445,
+        "abundance": 64
+    },
+    {
+        "species_id": 446,
+        "abundance": 96
+    },
+    {
+        "species_id": 447,
+        "abundance": 384
+    },
+    {
+        "species_id": 448,
+        "abundance": 96
+    },
+    {
+        "species_id": 449,
+        "abundance": 384
+    },
+    {
+        "species_id": 450,
+        "abundance": 96
+    },
+    {
+        "species_id": 451,
+        "abundance": 384
+    },
+    {
+        "species_id": 452,
+        "abundance": 96
+    },
+    {
+        "species_id": 453,
+        "abundance": 384
+    },
+    {
+        "species_id": 454,
+        "abundance": 96
+    },
+    {
+        "species_id": 455,
+        "abundance": 96
+    },
+    {
+        "species_id": 456,
+        "abundance": 384
+    },
+    {
+        "species_id": 457,
+        "abundance": 96
+    },
+    {
+        "species_id": 458,
+        "abundance": 96
+    },
+    {
+        "species_id": 459,
+        "abundance": 384
+    },
+    {
+        "species_id": 460,
+        "abundance": 96
+    },
+    {
+        "species_id": 461,
+        "abundance": 96
+    },
+    {
+        "species_id": 462,
+        "abundance": 96
+    },
+    {
+        "species_id": 463,
+        "abundance": 96
+    },
+    {
+        "species_id": 464,
+        "abundance": 96
+    },
+    {
+        "species_id": 465,
+        "abundance": 96
+    },
+    {
+        "species_id": 466,
+        "abundance": 96
+    },
+    {
+        "species_id": 467,
+        "abundance": 96
+    },
+    {
+        "species_id": 468,
+        "abundance": 96
+    },
+    {
+        "species_id": 469,
+        "abundance": 96
+    },
+    {
+        "species_id": 470,
+        "abundance": 96
+    },
+    {
+        "species_id": 471,
+        "abundance": 96
+    },
+    {
+        "species_id": 472,
+        "abundance": 96
+    },
+    {
+        "species_id": 473,
+        "abundance": 96
+    },
+    {
+        "species_id": 474,
+        "abundance": 96
+    },
+    {
+        "species_id": 475,
+        "abundance": 96
+    },
+    {
+        "species_id": 476,
+        "abundance": 96
+    },
+    {
+        "species_id": 477,
+        "abundance": 96
+    },
+    {
+        "species_id": 478,
+        "abundance": 96
+    },
+    {
+        "species_id": 479,
+        "abundance": 96
+    },
+    {
+        "species_id": 480,
+        "abundance": 6
+    },
+    {
+        "species_id": 481,
+        "abundance": 6
+    },
+    {
+        "species_id": 482,
+        "abundance": 6
+    },
+    {
+        "species_id": 483,
+        "abundance": 6
+    },
+    {
+        "species_id": 484,
+        "abundance": 6
+    },
+    {
+        "species_id": 485,
+        "abundance": 6
+    },
+    {
+        "species_id": 486,
+        "abundance": 6
+    },
+    {
+        "species_id": 487,
+        "abundance": 6
+    },
+    {
+        "species_id": 488,
+        "abundance": 6
+    },
+    {
+        "species_id": 489,
+        "abundance": 12
+    },
+    {
+        "species_id": 490,
+        "abundance": 12
+    },
+    {
+        "species_id": 491,
+        "abundance": 12
+    },
+    {
+        "species_id": 492,
+        "abundance": 12
+    },
+    {
+        "species_id": 493,
+        "abundance": 12
+    },
+    {
+        "species_id": 494,
+        "abundance": 12
+    },
+    {
+        "species_id": 495,
+        "abundance": 512
+    },
+    {
+        "species_id": 496,
+        "abundance": 384
+    },
+    {
+        "species_id": 497,
+        "abundance": 96
+    },
+    {
+        "species_id": 498,
+        "abundance": 512
+    },
+    {
+        "species_id": 499,
+        "abundance": 384
+    },
+    {
+        "species_id": 500,
+        "abundance": 96
+    },
+    {
+        "species_id": 501,
+        "abundance": 512
+    },
+    {
+        "species_id": 502,
+        "abundance": 384
+    },
+    {
+        "species_id": 503,
+        "abundance": 96
+    },
+    {
+        "species_id": 504,
+        "abundance": 384
+    },
+    {
+        "species_id": 505,
+        "abundance": 96
+    },
+    {
+        "species_id": 506,
+        "abundance": 1536
+    },
+    {
+        "species_id": 507,
+        "abundance": 384
+    },
+    {
+        "species_id": 508,
+        "abundance": 96
+    },
+    {
+        "species_id": 509,
+        "abundance": 384
+    },
+    {
+        "species_id": 510,
+        "abundance": 96
+    },
+    {
+        "species_id": 511,
+        "abundance": 384
+    },
+    {
+        "species_id": 512,
+        "abundance": 96
+    },
+    {
+        "species_id": 513,
+        "abundance": 384
+    },
+    {
+        "species_id": 514,
+        "abundance": 96
+    },
+    {
+        "species_id": 515,
+        "abundance": 384
+    },
+    {
+        "species_id": 516,
+        "abundance": 96
+    },
+    {
+        "species_id": 517,
+        "abundance": 384
+    },
+    {
+        "species_id": 518,
+        "abundance": 96
+    },
+    {
+        "species_id": 519,
+        "abundance": 1536
+    },
+    {
+        "species_id": 520,
+        "abundance": 384
+    },
+    {
+        "species_id": 521,
+        "abundance": 96
+    },
+    {
+        "species_id": 522,
+        "abundance": 384
+    },
+    {
+        "species_id": 523,
+        "abundance": 96
+    },
+    {
+        "species_id": 524,
+        "abundance": 1536
+    },
+    {
+        "species_id": 525,
+        "abundance": 384
+    },
+    {
+        "species_id": 526,
+        "abundance": 96
+    },
+    {
+        "species_id": 527,
+        "abundance": 384
+    },
+    {
+        "species_id": 528,
+        "abundance": 96
+    },
+    {
+        "species_id": 529,
+        "abundance": 384
+    },
+    {
+        "species_id": 530,
+        "abundance": 96
+    },
+    {
+        "species_id": 531,
+        "abundance": 96
+    },
+    {
+        "species_id": 532,
+        "abundance": 1536
+    },
+    {
+        "species_id": 533,
+        "abundance": 384
+    },
+    {
+        "species_id": 534,
+        "abundance": 96
+    },
+    {
+        "species_id": 535,
+        "abundance": 1536
+    },
+    {
+        "species_id": 536,
+        "abundance": 384
+    },
+    {
+        "species_id": 537,
+        "abundance": 96
+    },
+    {
+        "species_id": 538,
+        "abundance": 96
+    },
+    {
+        "species_id": 539,
+        "abundance": 96
+    },
+    {
+        "species_id": 540,
+        "abundance": 1536
+    },
+    {
+        "species_id": 541,
+        "abundance": 384
+    },
+    {
+        "species_id": 542,
+        "abundance": 96
+    },
+    {
+        "species_id": 543,
+        "abundance": 1536
+    },
+    {
+        "species_id": 544,
+        "abundance": 384
+    },
+    {
+        "species_id": 545,
+        "abundance": 96
+    },
+    {
+        "species_id": 546,
+        "abundance": 384
+    },
+    {
+        "species_id": 547,
+        "abundance": 96
+    },
+    {
+        "species_id": 548,
+        "abundance": 384
+    },
+    {
+        "species_id": 549,
+        "abundance": 96
+    },
+    {
+        "species_id": 550,
+        "abundance": 96
+    },
+    {
+        "species_id": 551,
+        "abundance": 1536
+    },
+    {
+        "species_id": 552,
+        "abundance": 384
+    },
+    {
+        "species_id": 553,
+        "abundance": 96
+    },
+    {
+        "species_id": 554,
+        "abundance": 384
+    },
+    {
+        "species_id": 555,
+        "abundance": 96
+    },
+    {
+        "species_id": 556,
+        "abundance": 96
+    },
+    {
+        "species_id": 557,
+        "abundance": 384
+    },
+    {
+        "species_id": 558,
+        "abundance": 96
+    },
+    {
+        "species_id": 559,
+        "abundance": 384
+    },
+    {
+        "species_id": 560,
+        "abundance": 96
+    },
+    {
+        "species_id": 561,
+        "abundance": 96
+    },
+    {
+        "species_id": 562,
+        "abundance": 384
+    },
+    {
+        "species_id": 563,
+        "abundance": 96
+    },
+    {
+        "species_id": 564,
+        "abundance": 384
+    },
+    {
+        "species_id": 565,
+        "abundance": 96
+    },
+    {
+        "species_id": 566,
+        "abundance": 384
+    },
+    {
+        "species_id": 567,
+        "abundance": 96
+    },
+    {
+        "species_id": 568,
+        "abundance": 384
+    },
+    {
+        "species_id": 569,
+        "abundance": 96
+    },
+    {
+        "species_id": 570,
+        "abundance": 384
+    },
+    {
+        "species_id": 571,
+        "abundance": 96
+    },
+    {
+        "species_id": 572,
+        "abundance": 384
+    },
+    {
+        "species_id": 573,
+        "abundance": 96
+    },
+    {
+        "species_id": 574,
+        "abundance": 1536
+    },
+    {
+        "species_id": 575,
+        "abundance": 384
+    },
+    {
+        "species_id": 576,
+        "abundance": 96
+    },
+    {
+        "species_id": 577,
+        "abundance": 1536
+    },
+    {
+        "species_id": 578,
+        "abundance": 384
+    },
+    {
+        "species_id": 579,
+        "abundance": 96
+    },
+    {
+        "species_id": 580,
+        "abundance": 384
+    },
+    {
+        "species_id": 581,
+        "abundance": 96
+    },
+    {
+        "species_id": 582,
+        "abundance": 1536
+    },
+    {
+        "species_id": 583,
+        "abundance": 384
+    },
+    {
+        "species_id": 584,
+        "abundance": 96
+    },
+    {
+        "species_id": 585,
+        "abundance": 384
+    },
+    {
+        "species_id": 586,
+        "abundance": 96
+    },
+    {
+        "species_id": 587,
+        "abundance": 96
+    },
+    {
+        "species_id": 588,
+        "abundance": 384
+    },
+    {
+        "species_id": 589,
+        "abundance": 96
+    },
+    {
+        "species_id": 590,
+        "abundance": 384
+    },
+    {
+        "species_id": 591,
+        "abundance": 96
+    },
+    {
+        "species_id": 592,
+        "abundance": 384
+    },
+    {
+        "species_id": 593,
+        "abundance": 96
+    },
+    {
+        "species_id": 594,
+        "abundance": 96
+    },
+    {
+        "species_id": 595,
+        "abundance": 384
+    },
+    {
+        "species_id": 596,
+        "abundance": 96
+    },
+    {
+        "species_id": 597,
+        "abundance": 384
+    },
+    {
+        "species_id": 598,
+        "abundance": 96
+    },
+    {
+        "species_id": 599,
+        "abundance": 1536
+    },
+    {
+        "species_id": 600,
+        "abundance": 384
+    },
+    {
+        "species_id": 601,
+        "abundance": 96
+    },
+    {
+        "species_id": 602,
+        "abundance": 1536
+    },
+    {
+        "species_id": 603,
+        "abundance": 384
+    },
+    {
+        "species_id": 604,
+        "abundance": 96
+    },
+    {
+        "species_id": 605,
+        "abundance": 384
+    },
+    {
+        "species_id": 606,
+        "abundance": 96
+    },
+    {
+        "species_id": 607,
+        "abundance": 1536
+    },
+    {
+        "species_id": 608,
+        "abundance": 384
+    },
+    {
+        "species_id": 609,
+        "abundance": 96
+    },
+    {
+        "species_id": 610,
+        "abundance": 1536
+    },
+    {
+        "species_id": 611,
+        "abundance": 384
+    },
+    {
+        "species_id": 612,
+        "abundance": 96
+    },
+    {
+        "species_id": 613,
+        "abundance": 384
+    },
+    {
+        "species_id": 614,
+        "abundance": 96
+    },
+    {
+        "species_id": 615,
+        "abundance": 96
+    },
+    {
+        "species_id": 616,
+        "abundance": 384
+    },
+    {
+        "species_id": 617,
+        "abundance": 96
+    },
+    {
+        "species_id": 618,
+        "abundance": 96
+    },
+    {
+        "species_id": 619,
+        "abundance": 384
+    },
+    {
+        "species_id": 620,
+        "abundance": 96
+    },
+    {
+        "species_id": 621,
+        "abundance": 96
+    },
+    {
+        "species_id": 622,
+        "abundance": 384
+    },
+    {
+        "species_id": 623,
+        "abundance": 96
+    },
+    {
+        "species_id": 624,
+        "abundance": 384
+    },
+    {
+        "species_id": 625,
+        "abundance": 96
+    },
+    {
+        "species_id": 626,
+        "abundance": 96
+    },
+    {
+        "species_id": 627,
+        "abundance": 384
+    },
+    {
+        "species_id": 628,
+        "abundance": 96
+    },
+    {
+        "species_id": 629,
+        "abundance": 384
+    },
+    {
+        "species_id": 630,
+        "abundance": 96
+    },
+    {
+        "species_id": 631,
+        "abundance": 96
+    },
+    {
+        "species_id": 632,
+        "abundance": 96
+    },
+    {
+        "species_id": 633,
+        "abundance": 1024
+    },
+    {
+        "species_id": 634,
+        "abundance": 256
+    },
+    {
+        "species_id": 635,
+        "abundance": 64
+    },
+    {
+        "species_id": 636,
+        "abundance": 384
+    },
+    {
+        "species_id": 637,
+        "abundance": 96
+    },
+    {
+        "species_id": 638,
+        "abundance": 6
+    },
+    {
+        "species_id": 639,
+        "abundance": 6
+    },
+    {
+        "species_id": 640,
+        "abundance": 6
+    },
+    {
+        "species_id": 641,
+        "abundance": 6
+    },
+    {
+        "species_id": 642,
+        "abundance": 6
+    },
+    {
+        "species_id": 643,
+        "abundance": 6
+    },
+    {
+        "species_id": 644,
+        "abundance": 6
+    },
+    {
+        "species_id": 645,
+        "abundance": 6
+    },
+    {
+        "species_id": 646,
+        "abundance": 6
+    },
+    {
+        "species_id": 647,
+        "abundance": 12
+    },
+    {
+        "species_id": 648,
+        "abundance": 12
+    },
+    {
+        "species_id": 649,
+        "abundance": 12
+    },
+    {
+        "species_id": 650,
+        "abundance": 512
+    },
+    {
+        "species_id": 651,
+        "abundance": 384
+    },
+    {
+        "species_id": 652,
+        "abundance": 96
+    },
+    {
+        "species_id": 653,
+        "abundance": 512
+    },
+    {
+        "species_id": 654,
+        "abundance": 384
+    },
+    {
+        "species_id": 655,
+        "abundance": 96
+    },
+    {
+        "species_id": 656,
+        "abundance": 512
+    },
+    {
+        "species_id": 657,
+        "abundance": 384
+    },
+    {
+        "species_id": 658,
+        "abundance": 96
+    },
+    {
+        "species_id": 659,
+        "abundance": 384
+    },
+    {
+        "species_id": 660,
+        "abundance": 96
+    },
+    {
+        "species_id": 661,
+        "abundance": 1536
+    },
+    {
+        "species_id": 662,
+        "abundance": 384
+    },
+    {
+        "species_id": 663,
+        "abundance": 96
+    },
+    {
+        "species_id": 664,
+        "abundance": 1536
+    },
+    {
+        "species_id": 665,
+        "abundance": 384
+    },
+    {
+        "species_id": 666,
+        "abundance": 96
+    },
+    {
+        "species_id": 667,
+        "abundance": 384
+    },
+    {
+        "species_id": 668,
+        "abundance": 96
+    },
+    {
+        "species_id": 669,
+        "abundance": 1536
+    },
+    {
+        "species_id": 670,
+        "abundance": 384
+    },
+    {
+        "species_id": 671,
+        "abundance": 96
+    },
+    {
+        "species_id": 672,
+        "abundance": 384
+    },
+    {
+        "species_id": 673,
+        "abundance": 96
+    },
+    {
+        "species_id": 674,
+        "abundance": 384
+    },
+    {
+        "species_id": 675,
+        "abundance": 96
+    },
+    {
+        "species_id": 676,
+        "abundance": 96
+    },
+    {
+        "species_id": 677,
+        "abundance": 384
+    },
+    {
+        "species_id": 678,
+        "abundance": 96
+    },
+    {
+        "species_id": 679,
+        "abundance": 1536
+    },
+    {
+        "species_id": 680,
+        "abundance": 384
+    },
+    {
+        "species_id": 681,
+        "abundance": 96
+    },
+    {
+        "species_id": 682,
+        "abundance": 384
+    },
+    {
+        "species_id": 683,
+        "abundance": 96
+    },
+    {
+        "species_id": 684,
+        "abundance": 384
+    },
+    {
+        "species_id": 685,
+        "abundance": 96
+    },
+    {
+        "species_id": 686,
+        "abundance": 384
+    },
+    {
+        "species_id": 687,
+        "abundance": 96
+    },
+    {
+        "species_id": 688,
+        "abundance": 384
+    },
+    {
+        "species_id": 689,
+        "abundance": 96
+    },
+    {
+        "species_id": 690,
+        "abundance": 384
+    },
+    {
+        "species_id": 691,
+        "abundance": 96
+    },
+    {
+        "species_id": 692,
+        "abundance": 384
+    },
+    {
+        "species_id": 693,
+        "abundance": 96
+    },
+    {
+        "species_id": 694,
+        "abundance": 384
+    },
+    {
+        "species_id": 695,
+        "abundance": 96
+    },
+    {
+        "species_id": 696,
+        "abundance": 384
+    },
+    {
+        "species_id": 697,
+        "abundance": 96
+    },
+    {
+        "species_id": 698,
+        "abundance": 384
+    },
+    {
+        "species_id": 699,
+        "abundance": 96
+    },
+    {
+        "species_id": 700,
+        "abundance": 96
+    },
+    {
+        "species_id": 701,
+        "abundance": 96
+    },
+    {
+        "species_id": 702,
+        "abundance": 96
+    },
+    {
+        "species_id": 703,
+        "abundance": 96
+    },
+    {
+        "species_id": 704,
+        "abundance": 1024
+    },
+    {
+        "species_id": 705,
+        "abundance": 256
+    },
+    {
+        "species_id": 706,
+        "abundance": 64
+    },
+    {
+        "species_id": 707,
+        "abundance": 96
+    },
+    {
+        "species_id": 708,
+        "abundance": 384
+    },
+    {
+        "species_id": 709,
+        "abundance": 96
+    },
+    {
+        "species_id": 710,
+        "abundance": 384
+    },
+    {
+        "species_id": 711,
+        "abundance": 96
+    },
+    {
+        "species_id": 712,
+        "abundance": 384
+    },
+    {
+        "species_id": 713,
+        "abundance": 96
+    },
+    {
+        "species_id": 714,
+        "abundance": 384
+    },
+    {
+        "species_id": 715,
+        "abundance": 96
+    },
+    {
+        "species_id": 716,
+        "abundance": 6
+    },
+    {
+        "species_id": 717,
+        "abundance": 6
+    },
+    {
+        "species_id": 718,
+        "abundance": 6
+    },
+    {
+        "species_id": 719,
+        "abundance": 12
+    },
+    {
+        "species_id": 720,
+        "abundance": 12
+    },
+    {
+        "species_id": 721,
+        "abundance": 12
+    },
+    {
+        "species_id": 722,
+        "abundance": 512
+    },
+    {
+        "species_id": 723,
+        "abundance": 384
+    },
+    {
+        "species_id": 724,
+        "abundance": 96
+    },
+    {
+        "species_id": 725,
+        "abundance": 512
+    },
+    {
+        "species_id": 726,
+        "abundance": 384
+    },
+    {
+        "species_id": 727,
+        "abundance": 96
+    },
+    {
+        "species_id": 728,
+        "abundance": 512
+    },
+    {
+        "species_id": 729,
+        "abundance": 384
+    },
+    {
+        "species_id": 730,
+        "abundance": 96
+    },
+    {
+        "species_id": 731,
+        "abundance": 1536
+    },
+    {
+        "species_id": 732,
+        "abundance": 384
+    },
+    {
+        "species_id": 733,
+        "abundance": 96
+    },
+    {
+        "species_id": 734,
+        "abundance": 384
+    },
+    {
+        "species_id": 735,
+        "abundance": 96
+    },
+    {
+        "species_id": 736,
+        "abundance": 1536
+    },
+    {
+        "species_id": 737,
+        "abundance": 384
+    },
+    {
+        "species_id": 738,
+        "abundance": 96
+    },
+    {
+        "species_id": 739,
+        "abundance": 384
+    },
+    {
+        "species_id": 740,
+        "abundance": 96
+    },
+    {
+        "species_id": 741,
+        "abundance": 96
+    },
+    {
+        "species_id": 742,
+        "abundance": 384
+    },
+    {
+        "species_id": 743,
+        "abundance": 96
+    },
+    {
+        "species_id": 744,
+        "abundance": 384
+    },
+    {
+        "species_id": 745,
+        "abundance": 96
+    },
+    {
+        "species_id": 746,
+        "abundance": 96
+    },
+    {
+        "species_id": 747,
+        "abundance": 384
+    },
+    {
+        "species_id": 748,
+        "abundance": 96
+    },
+    {
+        "species_id": 749,
+        "abundance": 384
+    },
+    {
+        "species_id": 750,
+        "abundance": 96
+    },
+    {
+        "species_id": 751,
+        "abundance": 384
+    },
+    {
+        "species_id": 752,
+        "abundance": 96
+    },
+    {
+        "species_id": 753,
+        "abundance": 384
+    },
+    {
+        "species_id": 754,
+        "abundance": 96
+    },
+    {
+        "species_id": 755,
+        "abundance": 384
+    },
+    {
+        "species_id": 756,
+        "abundance": 96
+    },
+    {
+        "species_id": 757,
+        "abundance": 384
+    },
+    {
+        "species_id": 758,
+        "abundance": 96
+    },
+    {
+        "species_id": 759,
+        "abundance": 384
+    },
+    {
+        "species_id": 760,
+        "abundance": 96
+    },
+    {
+        "species_id": 761,
+        "abundance": 1536
+    },
+    {
+        "species_id": 762,
+        "abundance": 384
+    },
+    {
+        "species_id": 763,
+        "abundance": 96
+    },
+    {
+        "species_id": 764,
+        "abundance": 96
+    },
+    {
+        "species_id": 765,
+        "abundance": 96
+    },
+    {
+        "species_id": 766,
+        "abundance": 96
+    },
+    {
+        "species_id": 767,
+        "abundance": 384
+    },
+    {
+        "species_id": 768,
+        "abundance": 96
+    },
+    {
+        "species_id": 769,
+        "abundance": 384
+    },
+    {
+        "species_id": 770,
+        "abundance": 96
+    },
+    {
+        "species_id": 771,
+        "abundance": 96
+    },
+    {
+        "species_id": 772,
+        "abundance": 6
+    },
+    {
+        "species_id": 773,
+        "abundance": 6
+    },
+    {
+        "species_id": 774,
+        "abundance": 96
+    },
+    {
+        "species_id": 775,
+        "abundance": 96
+    },
+    {
+        "species_id": 776,
+        "abundance": 96
+    },
+    {
+        "species_id": 777,
+        "abundance": 96
+    },
+    {
+        "species_id": 778,
+        "abundance": 96
+    },
+    {
+        "species_id": 779,
+        "abundance": 96
+    },
+    {
+        "species_id": 780,
+        "abundance": 96
+    },
+    {
+        "species_id": 781,
+        "abundance": 96
+    },
+    {
+        "species_id": 782,
+        "abundance": 1024
+    },
+    {
+        "species_id": 783,
+        "abundance": 256
+    },
+    {
+        "species_id": 784,
+        "abundance": 64
+    },
+    {
+        "species_id": 785,
+        "abundance": 6
+    },
+    {
+        "species_id": 786,
+        "abundance": 6
+    },
+    {
+        "species_id": 787,
+        "abundance": 6
+    },
+    {
+        "species_id": 788,
+        "abundance": 6
+    },
+    {
+        "species_id": 789,
+        "abundance": 6
+    },
+    {
+        "species_id": 790,
+        "abundance": 6
+    },
+    {
+        "species_id": 791,
+        "abundance": 6
+    },
+    {
+        "species_id": 792,
+        "abundance": 6
+    },
+    {
+        "species_id": 793,
+        "abundance": 3
+    },
+    {
+        "species_id": 794,
+        "abundance": 3
+    },
+    {
+        "species_id": 795,
+        "abundance": 3
+    },
+    {
+        "species_id": 796,
+        "abundance": 3
+    },
+    {
+        "species_id": 797,
+        "abundance": 3
+    },
+    {
+        "species_id": 798,
+        "abundance": 3
+    },
+    {
+        "species_id": 799,
+        "abundance": 3
+    },
+    {
+        "species_id": 800,
+        "abundance": 6
+    },
+    {
+        "species_id": 801,
+        "abundance": 12
+    },
+    {
+        "species_id": 802,
+        "abundance": 12
+    },
+    {
+        "species_id": 803,
+        "abundance": 3
+    },
+    {
+        "species_id": 804,
+        "abundance": 3
+    },
+    {
+        "species_id": 805,
+        "abundance": 3
+    },
+    {
+        "species_id": 806,
+        "abundance": 3
+    },
+    {
+        "species_id": 807,
+        "abundance": 12
+    },
+    {
+        "species_id": 808,
+        "abundance": 12
+    },
+    {
+        "species_id": 809,
+        "abundance": 12
+    },
+    {
+        "species_id": 810,
+        "abundance": 512
+    },
+    {
+        "species_id": 811,
+        "abundance": 384
+    },
+    {
+        "species_id": 812,
+        "abundance": 96
+    },
+    {
+        "species_id": 813,
+        "abundance": 512
+    },
+    {
+        "species_id": 814,
+        "abundance": 384
+    },
+    {
+        "species_id": 815,
+        "abundance": 96
+    },
+    {
+        "species_id": 816,
+        "abundance": 512
+    },
+    {
+        "species_id": 817,
+        "abundance": 384
+    },
+    {
+        "species_id": 818,
+        "abundance": 96
+    },
+    {
+        "species_id": 819,
+        "abundance": 384
+    },
+    {
+        "species_id": 820,
+        "abundance": 96
+    },
+    {
+        "species_id": 821,
+        "abundance": 1536
+    },
+    {
+        "species_id": 822,
+        "abundance": 384
+    },
+    {
+        "species_id": 823,
+        "abundance": 96
+    },
+    {
+        "species_id": 824,
+        "abundance": 1536
+    },
+    {
+        "species_id": 825,
+        "abundance": 384
+    },
+    {
+        "species_id": 826,
+        "abundance": 96
+    },
+    {
+        "species_id": 827,
+        "abundance": 384
+    },
+    {
+        "species_id": 828,
+        "abundance": 96
+    },
+    {
+        "species_id": 829,
+        "abundance": 384
+    },
+    {
+        "species_id": 830,
+        "abundance": 96
+    },
+    {
+        "species_id": 831,
+        "abundance": 384
+    },
+    {
+        "species_id": 832,
+        "abundance": 96
+    },
+    {
+        "species_id": 833,
+        "abundance": 384
+    },
+    {
+        "species_id": 834,
+        "abundance": 96
+    },
+    {
+        "species_id": 835,
+        "abundance": 384
+    },
+    {
+        "species_id": 836,
+        "abundance": 96
+    },
+    {
+        "species_id": 837,
+        "abundance": 1536
+    },
+    {
+        "species_id": 838,
+        "abundance": 384
+    },
+    {
+        "species_id": 839,
+        "abundance": 96
+    },
+    {
+        "species_id": 840,
+        "abundance": 384
+    },
+    {
+        "species_id": 841,
+        "abundance": 96
+    },
+    {
+        "species_id": 842,
+        "abundance": 96
+    },
+    {
+        "species_id": 843,
+        "abundance": 384
+    },
+    {
+        "species_id": 844,
+        "abundance": 96
+    },
+    {
+        "species_id": 845,
+        "abundance": 96
+    },
+    {
+        "species_id": 846,
+        "abundance": 384
+    },
+    {
+        "species_id": 847,
+        "abundance": 96
+    },
+    {
+        "species_id": 848,
+        "abundance": 384
+    },
+    {
+        "species_id": 849,
+        "abundance": 96
+    },
+    {
+        "species_id": 850,
+        "abundance": 384
+    },
+    {
+        "species_id": 851,
+        "abundance": 96
+    },
+    {
+        "species_id": 852,
+        "abundance": 384
+    },
+    {
+        "species_id": 853,
+        "abundance": 96
+    },
+    {
+        "species_id": 854,
+        "abundance": 384
+    },
+    {
+        "species_id": 855,
+        "abundance": 96
+    },
+    {
+        "species_id": 856,
+        "abundance": 1536
+    },
+    {
+        "species_id": 857,
+        "abundance": 384
+    },
+    {
+        "species_id": 858,
+        "abundance": 96
+    },
+    {
+        "species_id": 859,
+        "abundance": 1536
+    },
+    {
+        "species_id": 860,
+        "abundance": 384
+    },
+    {
+        "species_id": 861,
+        "abundance": 96
+    },
+    {
+        "species_id": 862,
+        "abundance": 0
+    },
+    {
+        "species_id": 863,
+        "abundance": 0
+    },
+    {
+        "species_id": 864,
+        "abundance": 0
+    },
+    {
+        "species_id": 865,
+        "abundance": 0
+    },
+    {
+        "species_id": 866,
+        "abundance": 0
+    },
+    {
+        "species_id": 867,
+        "abundance": 0
+    },
+    {
+        "species_id": 868,
+        "abundance": 384
+    },
+    {
+        "species_id": 869,
+        "abundance": 96
+    },
+    {
+        "species_id": 870,
+        "abundance": 96
+    },
+    {
+        "species_id": 871,
+        "abundance": 96
+    },
+    {
+        "species_id": 872,
+        "abundance": 384
+    },
+    {
+        "species_id": 873,
+        "abundance": 96
+    },
+    {
+        "species_id": 874,
+        "abundance": 96
+    },
+    {
+        "species_id": 875,
+        "abundance": 96
+    },
+    {
+        "species_id": 876,
+        "abundance": 96
+    },
+    {
+        "species_id": 877,
+        "abundance": 96
+    },
+    {
+        "species_id": 878,
+        "abundance": 384
+    },
+    {
+        "species_id": 879,
+        "abundance": 96
+    },
+    {
+        "species_id": 880,
+        "abundance": 96
+    },
+    {
+        "species_id": 881,
+        "abundance": 96
+    },
+    {
+        "species_id": 882,
+        "abundance": 96
+    },
+    {
+        "species_id": 883,
+        "abundance": 96
+    },
+    {
+        "species_id": 884,
+        "abundance": 96
+    },
+    {
+        "species_id": 885,
+        "abundance": 1536
+    },
+    {
+        "species_id": 886,
+        "abundance": 384
+    },
+    {
+        "species_id": 887,
+        "abundance": 96
+    },
+    {
+        "species_id": 888,
+        "abundance": 6
+    },
+    {
+        "species_id": 889,
+        "abundance": 6
+    },
+    {
+        "species_id": 890,
+        "abundance": 6
+    },
+    {
+        "species_id": 891,
+        "abundance": 6
+    },
+    {
+        "species_id": 892,
+        "abundance": 6
+    },
+    {
+        "species_id": 893,
+        "abundance": 12
+    },
+    {
+        "species_id": 894,
+        "abundance": 6
+    },
+    {
+        "species_id": 895,
+        "abundance": 6
+    },
+    {
+        "species_id": 896,
+        "abundance": 6
+    },
+    {
+        "species_id": 897,
+        "abundance": 6
+    },
+    {
+        "species_id": 898,
+        "abundance": 6
+    }
+]

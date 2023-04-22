@@ -1,0 +1,1718 @@
+[
+    {
+        "id": "1",
+        "text": "Inflicts regular damage with no additional effect."
+    },
+    {
+        "id": "2",
+        "text": "Puts the target to sleep."
+    },
+    {
+        "id": "3",
+        "text": "Has a $effect_chance% chance to [poison]{mechanic:poison} the target."
+    },
+    {
+        "id": "4",
+        "text": "Drains half the damage inflicted to heal the user."
+    },
+    {
+        "id": "5",
+        "text": "Has a $effect_chance% chance to [burn]{mechanic:burn} the target."
+    },
+    {
+        "id": "6",
+        "text": "Has a $effect_chance% chance to [freeze]{mechanic:freeze} the target."
+    },
+    {
+        "id": "7",
+        "text": "Has a $effect_chance% chance to [paralyze]{mechanic:paralysis} the target."
+    },
+    {
+        "id": "8",
+        "text": "User faints."
+    },
+    {
+        "id": "9",
+        "text": "Only works on sleeping Pok\u00e9mon.  Drains half the damage inflicted to heal the user."
+    },
+    {
+        "id": "10",
+        "text": "Uses the target's last used move."
+    },
+    {
+        "id": "11",
+        "text": "Raises the user's Attack by one stage."
+    },
+    {
+        "id": "12",
+        "text": "Raises the user's Defense by one stage."
+    },
+    {
+        "id": "14",
+        "text": "Raises the user's Special Attack by one stage."
+    },
+    {
+        "id": "17",
+        "text": "Raises the user's evasion by one stage."
+    },
+    {
+        "id": "18",
+        "text": "Never misses."
+    },
+    {
+        "id": "19",
+        "text": "Lowers the target's Attack by one stage."
+    },
+    {
+        "id": "20",
+        "text": "Lowers the target's Defense by one stage."
+    },
+    {
+        "id": "21",
+        "text": "Lowers the target's Speed by one stage."
+    },
+    {
+        "id": "24",
+        "text": "Lowers the target's accuracy by one stage."
+    },
+    {
+        "id": "25",
+        "text": "Lowers the target's evasion by one stage."
+    },
+    {
+        "id": "26",
+        "text": "Resets all Pok\u00e9mon's stats, accuracy, and evasion."
+    },
+    {
+        "id": "27",
+        "text": "User waits for two turns, then hits back for twice the damage it took."
+    },
+    {
+        "id": "28",
+        "text": "Hits every turn for 2-3 turns, then confuses the user."
+    },
+    {
+        "id": "29",
+        "text": "Immediately ends wild battles.  Forces trainers to switch Pok\u00e9mon."
+    },
+    {
+        "id": "30",
+        "text": "Hits 2-5 times in one turn."
+    },
+    {
+        "id": "31",
+        "text": "User's type changes to the type of one of its moves at random."
+    },
+    {
+        "id": "32",
+        "text": "Has a $effect_chance% chance to make the target flinch."
+    },
+    {
+        "id": "33",
+        "text": "Heals the user by half its max HP."
+    },
+    {
+        "id": "34",
+        "text": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+        "id": "35",
+        "text": "Scatters money on the ground worth five times the user's level."
+    },
+    {
+        "id": "36",
+        "text": "Reduces damage from special attacks by 50% for five turns."
+    },
+    {
+        "id": "37",
+        "text": "Has a $effect_chance% chance to [burn]{mechanic:burn}, [freeze]{mechanic:freeze}, or [paralyze]{mechanic:paralysis} the target."
+    },
+    {
+        "id": "38",
+        "text": "User sleeps for two turns, completely healing itself."
+    },
+    {
+        "id": "39",
+        "text": "Causes a one-hit KO."
+    },
+    {
+        "id": "40",
+        "text": "Requires a turn to charge before attacking."
+    },
+    {
+        "id": "41",
+        "text": "Inflicts damage equal to half the target's HP."
+    },
+    {
+        "id": "42",
+        "text": "Inflicts 40 points of damage."
+    },
+    {
+        "id": "43",
+        "text": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+        "id": "44",
+        "text": "Has an increased chance for a critical hit."
+    },
+    {
+        "id": "45",
+        "text": "Hits twice in one turn."
+    },
+    {
+        "id": "46",
+        "text": "If the user misses, it takes half the damage it would have inflicted in recoil."
+    },
+    {
+        "id": "47",
+        "text": "Protects the user's stats from being changed by enemy moves."
+    },
+    {
+        "id": "48",
+        "text": "Increases the user's chance to score a critical hit."
+    },
+    {
+        "id": "49",
+        "text": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+        "id": "50",
+        "text": "Confuses the target."
+    },
+    {
+        "id": "51",
+        "text": "Raises the user's Attack by two stages."
+    },
+    {
+        "id": "52",
+        "text": "Raises the user's Defense by two stages."
+    },
+    {
+        "id": "53",
+        "text": "Raises the user's Speed by two stages."
+    },
+    {
+        "id": "54",
+        "text": "Raises the user's Special Attack by two stages."
+    },
+    {
+        "id": "55",
+        "text": "Raises the user's Special Defense by two stages."
+    },
+    {
+        "id": "58",
+        "text": "User becomes a copy of the target until it leaves battle."
+    },
+    {
+        "id": "59",
+        "text": "Lowers the target's Attack by two stages."
+    },
+    {
+        "id": "60",
+        "text": "Lowers the target's Defense by two stages."
+    },
+    {
+        "id": "61",
+        "text": "Lowers the target's Speed by two stages."
+    },
+    {
+        "id": "62",
+        "text": "Lowers the target's Special Attack by two stages."
+    },
+    {
+        "id": "63",
+        "text": "Lowers the target's Special Defense by two stages."
+    },
+    {
+        "id": "66",
+        "text": "Reduces damage from physical attacks by half."
+    },
+    {
+        "id": "67",
+        "text": "Poisons the target."
+    },
+    {
+        "id": "68",
+        "text": "Paralyzes the target."
+    },
+    {
+        "id": "69",
+        "text": "Has a $effect_chance% chance to lower the target's Attack by one stage."
+    },
+    {
+        "id": "70",
+        "text": "Has a $effect_chance% chance to lower the target's Defense by one stage."
+    },
+    {
+        "id": "71",
+        "text": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+    },
+    {
+        "id": "72",
+        "text": "Has a $effect_chance% chance to lower the target's Special Attack by one stage."
+    },
+    {
+        "id": "73",
+        "text": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+    },
+    {
+        "id": "74",
+        "text": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+    },
+    {
+        "id": "75",
+        "text": "XXX new effect for mystical-fire"
+    },
+    {
+        "id": "76",
+        "text": "User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch."
+    },
+    {
+        "id": "77",
+        "text": "Has a $effect_chance% chance to confuse the target."
+    },
+    {
+        "id": "78",
+        "text": "Hits twice in the same turn.  Has a $effect_chance% chance to poison the target."
+    },
+    {
+        "id": "79",
+        "text": "Never misses."
+    },
+    {
+        "id": "80",
+        "text": "Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks."
+    },
+    {
+        "id": "81",
+        "text": "User foregoes its next turn to recharge."
+    },
+    {
+        "id": "82",
+        "text": "If the user is hit after using this move, its Attack rises by one stage."
+    },
+    {
+        "id": "83",
+        "text": "Copies the target's last used move."
+    },
+    {
+        "id": "84",
+        "text": "Randomly selects and uses any move in the game."
+    },
+    {
+        "id": "85",
+        "text": "Seeds the target, stealing HP from it every turn."
+    },
+    {
+        "id": "86",
+        "text": "Does nothing."
+    },
+    {
+        "id": "87",
+        "text": "Disables the target's last used move for 1-8 turns."
+    },
+    {
+        "id": "88",
+        "text": "Inflicts damage equal to the user's level."
+    },
+    {
+        "id": "89",
+        "text": "Inflicts damage between 50% and 150% of the user's level."
+    },
+    {
+        "id": "90",
+        "text": "Inflicts twice the damage the user received from the last physical hit it took."
+    },
+    {
+        "id": "91",
+        "text": "Forces the target to repeat its last used move every turn for 2 to 6 turns."
+    },
+    {
+        "id": "92",
+        "text": "Sets the user's and targets's HP to the average of their current HP."
+    },
+    {
+        "id": "93",
+        "text": "Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping."
+    },
+    {
+        "id": "94",
+        "text": "Changes the user's type to a random type either resistant or immune to the last move used against it."
+    },
+    {
+        "id": "95",
+        "text": "Ensures that the user's next move will hit the target."
+    },
+    {
+        "id": "96",
+        "text": "Permanently becomes the target's last used move."
+    },
+    {
+        "id": "98",
+        "text": "Randomly uses one of the user's other three moves.  Only works if the user is sleeping."
+    },
+    {
+        "id": "99",
+        "text": "If the user faints this turn, the target automatically will, too."
+    },
+    {
+        "id": "100",
+        "text": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
+    },
+    {
+        "id": "101",
+        "text": "Lowers the PP of the target's last used move by 4."
+    },
+    {
+        "id": "102",
+        "text": "Cannot lower the target's HP below 1."
+    },
+    {
+        "id": "103",
+        "text": "Cures the entire party of major status effects."
+    },
+    {
+        "id": "104",
+        "text": "Inflicts regular damage with no additional effect."
+    },
+    {
+        "id": "105",
+        "text": "Hits three times, increasing power by 100% with each successful hit."
+    },
+    {
+        "id": "106",
+        "text": "Takes the target's item."
+    },
+    {
+        "id": "107",
+        "text": "Prevents the target from leaving battle."
+    },
+    {
+        "id": "108",
+        "text": "Target loses 1/4 its max HP every turn as long as it's asleep."
+    },
+    {
+        "id": "109",
+        "text": "Raises the user's evasion by two stages."
+    },
+    {
+        "id": "110",
+        "text": "Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense."
+    },
+    {
+        "id": "112",
+        "text": "Prevents any moves from hitting the user this turn."
+    },
+    {
+        "id": "113",
+        "text": "Scatters Spikes, hurting opposing Pok\u00e9mon that switch in."
+    },
+    {
+        "id": "114",
+        "text": "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost."
+    },
+    {
+        "id": "115",
+        "text": "User and target both faint after three turns."
+    },
+    {
+        "id": "116",
+        "text": "Changes the weather to a sandstorm for five turns."
+    },
+    {
+        "id": "117",
+        "text": "Prevents the user's HP from lowering below 1 this turn."
+    },
+    {
+        "id": "118",
+        "text": "Power doubles every turn this move is used in succession after the first, resetting after five turns."
+    },
+    {
+        "id": "119",
+        "text": "Raises the target's Attack by two stages and confuses the target."
+    },
+    {
+        "id": "120",
+        "text": "Power doubles every turn this move is used in succession after the first, maxing out after five turns."
+    },
+    {
+        "id": "121",
+        "text": "Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user."
+    },
+    {
+        "id": "122",
+        "text": "Power increases with happiness, up to a maximum of 102."
+    },
+    {
+        "id": "123",
+        "text": "Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP."
+    },
+    {
+        "id": "124",
+        "text": "Power increases as happiness decreases, up to a maximum of 102."
+    },
+    {
+        "id": "125",
+        "text": "Protects the user's field from major status ailments and confusion for five turns."
+    },
+    {
+        "id": "126",
+        "text": "Has a $effect_chance% chance to [burn]{mechanic:burn} the target.  Lets frozen Pok\u00e9mon thaw themselves."
+    },
+    {
+        "id": "127",
+        "text": "Power varies randomly from 10 to 150."
+    },
+    {
+        "id": "128",
+        "text": "Allows the trainer to switch out the user and pass effects along to its replacement."
+    },
+    {
+        "id": "129",
+        "text": "Has double power against, and can hit, Pok\u00e9mon attempting to switch out."
+    },
+    {
+        "id": "130",
+        "text": "Frees the user from binding moves, removes Leech Seed, and blows away Spikes."
+    },
+    {
+        "id": "131",
+        "text": "Inflicts 20 points of damage."
+    },
+    {
+        "id": "133",
+        "text": "Heals the user by half its max HP.  Affected by weather."
+    },
+    {
+        "id": "136",
+        "text": "Power and type depend upon user's IVs.  Power can range from 30 to 70."
+    },
+    {
+        "id": "137",
+        "text": "Changes the weather to rain for five turns."
+    },
+    {
+        "id": "138",
+        "text": "Changes the weather to sunny for five turns."
+    },
+    {
+        "id": "139",
+        "text": "Has a $effect_chance% chance to raise the user's Defense by one stage."
+    },
+    {
+        "id": "140",
+        "text": "Has a $effect_chance% chance to raise the user's Attack by one stage."
+    },
+    {
+        "id": "141",
+        "text": "Has a $effect_chance% chance to raise all of the user's stats by one stage."
+    },
+    {
+        "id": "143",
+        "text": "User pays half its max HP to max out its Attack."
+    },
+    {
+        "id": "144",
+        "text": "Discards the user's stat changes and copies the target's."
+    },
+    {
+        "id": "145",
+        "text": "Inflicts twice the damage the user received from the last special hit it took."
+    },
+    {
+        "id": "146",
+        "text": "Raises the user's Defense by one stage.  User charges for one turn before attacking."
+    },
+    {
+        "id": "147",
+        "text": "Has a $effect_chance% chance to make the target flinch."
+    },
+    {
+        "id": "148",
+        "text": "Inflicts regular damage and can hit Dig users."
+    },
+    {
+        "id": "149",
+        "text": "Hits the target two turns later."
+    },
+    {
+        "id": "150",
+        "text": "Inflicts regular damage and can hit Pok\u00e9mon in the air."
+    },
+    {
+        "id": "151",
+        "text": "Has a $effect_chance% chance to make the target flinch."
+    },
+    {
+        "id": "152",
+        "text": "Requires a turn to charge before attacking."
+    },
+    {
+        "id": "153",
+        "text": "Has a $effect_chance% chance to paralyze the target."
+    },
+    {
+        "id": "154",
+        "text": "Immediately ends wild battles.  No effect otherwise."
+    },
+    {
+        "id": "155",
+        "text": "Hits once for every conscious Pok\u00e9mon the trainer has."
+    },
+    {
+        "id": "156",
+        "text": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+        "id": "157",
+        "text": "Raises user's Defense by one stage."
+    },
+    {
+        "id": "159",
+        "text": "Can only be used as the first move after the user enters battle.  Causes the target to flinch."
+    },
+    {
+        "id": "160",
+        "text": "Forced to use this move for several turns.  Pok\u00e9mon cannot fall asleep in that time."
+    },
+    {
+        "id": "161",
+        "text": "Stores energy up to three times for use with Spit Up and Swallow."
+    },
+    {
+        "id": "162",
+        "text": "Power is 100 times the amount of energy Stockpiled."
+    },
+    {
+        "id": "163",
+        "text": "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles."
+    },
+    {
+        "id": "165",
+        "text": "Changes the weather to a hailstorm for five turns."
+    },
+    {
+        "id": "166",
+        "text": "Prevents the target from using the same move twice in a row."
+    },
+    {
+        "id": "167",
+        "text": "Raises the target's Special Attack by one stage and confuses the target."
+    },
+    {
+        "id": "168",
+        "text": "Burns the target."
+    },
+    {
+        "id": "169",
+        "text": "Lowers the target's Attack and Special Attack by two stages.  User faints."
+    },
+    {
+        "id": "170",
+        "text": "Power doubles if user is burned, paralyzed, or poisoned."
+    },
+    {
+        "id": "171",
+        "text": "If the user takes damage before attacking, the attack is canceled."
+    },
+    {
+        "id": "172",
+        "text": "If the target is paralyzed, inflicts double damage and cures the paralysis."
+    },
+    {
+        "id": "173",
+        "text": "Redirects the target's single-target effects to the user for this turn."
+    },
+    {
+        "id": "174",
+        "text": "Uses a move which depends upon the terrain."
+    },
+    {
+        "id": "175",
+        "text": "Raises the user's Special Defense by one stage.  User's Electric moves have doubled power next turn."
+    },
+    {
+        "id": "176",
+        "text": "For the next few turns, the target can only use damaging moves."
+    },
+    {
+        "id": "177",
+        "text": "Ally's next move inflicts half more damage."
+    },
+    {
+        "id": "178",
+        "text": "User and target swap items."
+    },
+    {
+        "id": "179",
+        "text": "Copies the target's ability."
+    },
+    {
+        "id": "180",
+        "text": "User will recover half its max HP at the end of the next turn."
+    },
+    {
+        "id": "181",
+        "text": "Randomly selects and uses one of the trainer's other Pok\u00e9mon's moves."
+    },
+    {
+        "id": "182",
+        "text": "Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn."
+    },
+    {
+        "id": "183",
+        "text": "Lowers the user's Attack and Defense by one stage after inflicting damage."
+    },
+    {
+        "id": "184",
+        "text": "Reflects back the first effect move used on the user this turn."
+    },
+    {
+        "id": "185",
+        "text": "User recovers the item it last used up."
+    },
+    {
+        "id": "186",
+        "text": "Inflicts double damage if the user takes damage before attacking this turn."
+    },
+    {
+        "id": "187",
+        "text": "Destroys Reflect and Light Screen."
+    },
+    {
+        "id": "188",
+        "text": "Target sleeps at the end of the next turn."
+    },
+    {
+        "id": "189",
+        "text": "Target drops its held item."
+    },
+    {
+        "id": "190",
+        "text": "Lowers the target's HP to equal the user's."
+    },
+    {
+        "id": "191",
+        "text": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+    },
+    {
+        "id": "192",
+        "text": "User and target swap abilities."
+    },
+    {
+        "id": "193",
+        "text": "Prevents the target from using any moves that the user also knows."
+    },
+    {
+        "id": "194",
+        "text": "Cleanses the user of a burn, paralysis, or poison."
+    },
+    {
+        "id": "195",
+        "text": "If the user faints this turn, the PP of the move that fainted it drops to 0."
+    },
+    {
+        "id": "196",
+        "text": "Steals the target's move, if it's self-targeted."
+    },
+    {
+        "id": "197",
+        "text": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+    },
+    {
+        "id": "198",
+        "text": "Has a $effect_chance% chance to inflict a status effect which depends upon the terrain."
+    },
+    {
+        "id": "199",
+        "text": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+        "id": "200",
+        "text": "Confuses the target."
+    },
+    {
+        "id": "201",
+        "text": "Has an increased chance for a critical hit and a $effect_chance% chance to [burn]{mechanic:burn} the target."
+    },
+    {
+        "id": "202",
+        "text": "Halves all Electric-type damage."
+    },
+    {
+        "id": "203",
+        "text": "Has a $effect_chance% chance to badly poison the target."
+    },
+    {
+        "id": "204",
+        "text": "If there be weather, this move has doubled power and the weather's type."
+    },
+    {
+        "id": "205",
+        "text": "Lowers the user's Special Attack by two stages after inflicting damage."
+    },
+    {
+        "id": "206",
+        "text": "Lowers the target's Attack and Defense by one stage."
+    },
+    {
+        "id": "207",
+        "text": "Raises the user's Defense and Special Defense by one stage."
+    },
+    {
+        "id": "208",
+        "text": "Inflicts regular damage and can hit Bounce and Fly users."
+    },
+    {
+        "id": "209",
+        "text": "Raises the user's Attack and Defense by one stage."
+    },
+    {
+        "id": "210",
+        "text": "Has an increased chance for a critical hit and a $effect_chance% chance to poison the target."
+    },
+    {
+        "id": "211",
+        "text": "Halves all Fire-type damage."
+    },
+    {
+        "id": "212",
+        "text": "Raises the user's Special Attack and Special Defense by one stage."
+    },
+    {
+        "id": "213",
+        "text": "Raises the user's Attack and Speed by one stage."
+    },
+    {
+        "id": "214",
+        "text": "User's type changes to match the terrain."
+    },
+    {
+        "id": "215",
+        "text": "Heals the user by half its max HP."
+    },
+    {
+        "id": "216",
+        "text": "Disables moves and immunities that involve flying or levitating for five turns."
+    },
+    {
+        "id": "217",
+        "text": "Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it's Dark."
+    },
+    {
+        "id": "218",
+        "text": "If the target is asleep, has double power and wakes it up."
+    },
+    {
+        "id": "219",
+        "text": "Lowers user's Speed by one stage."
+    },
+    {
+        "id": "220",
+        "text": "Power raises when the user has lower Speed, up to a maximum of 150."
+    },
+    {
+        "id": "221",
+        "text": "User faints.  Its replacement has its HP fully restored and any major status effect removed."
+    },
+    {
+        "id": "222",
+        "text": "Has double power against Pok\u00e9mon that have less than half their max HP remaining."
+    },
+    {
+        "id": "223",
+        "text": "Power and type depend on the held berry."
+    },
+    {
+        "id": "224",
+        "text": "Hits through Protect and Detect."
+    },
+    {
+        "id": "225",
+        "text": "If target has a berry, inflicts double damage and uses the berry."
+    },
+    {
+        "id": "226",
+        "text": "For three turns, friendly Pok\u00e9mon have doubled Speed."
+    },
+    {
+        "id": "227",
+        "text": "Raises one of a friendly Pok\u00e9mon's stats at random by two stages."
+    },
+    {
+        "id": "228",
+        "text": "Strikes back at the last Pok\u00e9mon to hit the user this turn with 1.5\u00d7 the damage."
+    },
+    {
+        "id": "229",
+        "text": "User must switch out after attacking."
+    },
+    {
+        "id": "230",
+        "text": "Lowers the user's Defense and Special Defense by one stage after inflicting damage."
+    },
+    {
+        "id": "231",
+        "text": "Power is doubled if the target has already moved this turn."
+    },
+    {
+        "id": "232",
+        "text": "Power is doubled if the target has already received damage this turn."
+    },
+    {
+        "id": "233",
+        "text": "Target cannot use held items."
+    },
+    {
+        "id": "234",
+        "text": "Throws held item at the target; power depends on the item."
+    },
+    {
+        "id": "235",
+        "text": "Transfers the user's major status effect to the target."
+    },
+    {
+        "id": "236",
+        "text": "Power increases when this move has less PP, up to a maximum of 200."
+    },
+    {
+        "id": "237",
+        "text": "Prevents target from restoring its HP for five turns."
+    },
+    {
+        "id": "238",
+        "text": "Power increases against targets with more HP remaining, up to a maximum of 121 power."
+    },
+    {
+        "id": "239",
+        "text": "User swaps Attack and Defense."
+    },
+    {
+        "id": "240",
+        "text": "Nullifies target's ability until it leaves battle."
+    },
+    {
+        "id": "241",
+        "text": "Prevents the target from scoring critical hits for five turns."
+    },
+    {
+        "id": "242",
+        "text": "Uses the target's move against it before it attacks, with power increased by half."
+    },
+    {
+        "id": "243",
+        "text": "Uses the target's last used move."
+    },
+    {
+        "id": "244",
+        "text": "User swaps Attack and Special Attack changes with the target."
+    },
+    {
+        "id": "245",
+        "text": "User swaps Defense and Special Defense changes with the target."
+    },
+    {
+        "id": "246",
+        "text": "Power increases against targets with more raised stats, up to a maximum of 200."
+    },
+    {
+        "id": "247",
+        "text": "Can only be used after all of the user's other moves have been used."
+    },
+    {
+        "id": "248",
+        "text": "Changes the target's ability to Insomnia."
+    },
+    {
+        "id": "249",
+        "text": "Only works if the target is about to use a damaging move."
+    },
+    {
+        "id": "250",
+        "text": "Scatters poisoned spikes, poisoning opposing Pok\u00e9mon that switch in."
+    },
+    {
+        "id": "251",
+        "text": "User and target swap stat changes."
+    },
+    {
+        "id": "252",
+        "text": "Restores 1/16 of the user's max HP each turn."
+    },
+    {
+        "id": "253",
+        "text": "User is immune to Ground moves and effects for five turns."
+    },
+    {
+        "id": "254",
+        "text": "User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target."
+    },
+    {
+        "id": "255",
+        "text": "User takes 1/4 its max HP in recoil."
+    },
+    {
+        "id": "256",
+        "text": "User dives underwater, dodging all attacks, and hits next turn."
+    },
+    {
+        "id": "257",
+        "text": "User digs underground, dodging all attacks, and hits next turn."
+    },
+    {
+        "id": "258",
+        "text": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+        "id": "259",
+        "text": "Lowers the target's evasion by one stage.  Removes field effects from the enemy field."
+    },
+    {
+        "id": "260",
+        "text": "For five turns, slower Pok\u00e9mon will act before faster Pok\u00e9mon."
+    },
+    {
+        "id": "261",
+        "text": "Has a $effect_chance% chance to freeze the target."
+    },
+    {
+        "id": "262",
+        "text": "Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns."
+    },
+    {
+        "id": "263",
+        "text": "User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target."
+    },
+    {
+        "id": "264",
+        "text": "User bounces high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+        "id": "266",
+        "text": "Lowers the target's Special Attack by two stages if it's the opposite gender."
+    },
+    {
+        "id": "267",
+        "text": "Causes damage when opposing Pok\u00e9mon switch in."
+    },
+    {
+        "id": "268",
+        "text": "Has a higher chance to confuse the target when the recorded sound is louder."
+    },
+    {
+        "id": "269",
+        "text": "If the user is holding a appropriate plate or drive, the damage inflicted will match it."
+    },
+    {
+        "id": "270",
+        "text": "User receives 1/2 the damage inflicted in recoil."
+    },
+    {
+        "id": "271",
+        "text": "User faints, and its replacement is fully healed."
+    },
+    {
+        "id": "272",
+        "text": "Has a $effect_chance% chance to lower the target's Special Defense by two stages."
+    },
+    {
+        "id": "273",
+        "text": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect."
+    },
+    {
+        "id": "274",
+        "text": "Has a $effect_chance% chance to [burn]{mechanic:burn} the target and a $effect_chance% chance to make the target flinch."
+    },
+    {
+        "id": "275",
+        "text": "Has a $effect_chance% chance to freeze the target and a $effect_chance% chance to make the target flinch."
+    },
+    {
+        "id": "276",
+        "text": "Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance to make the target flinch."
+    },
+    {
+        "id": "277",
+        "text": "Has a $effect_chance% chance to raise the user's Special Attack by one stage."
+    },
+    {
+        "id": "278",
+        "text": "Raises the user's Attack and accuracy by one stage."
+    },
+    {
+        "id": "279",
+        "text": "Prevents any multi-target moves from hitting friendly Pok\u00e9mon this turn."
+    },
+    {
+        "id": "280",
+        "text": "Averages Defense and Special Defense with the target."
+    },
+    {
+        "id": "281",
+        "text": "Averages Attack and Special Attack with the target."
+    },
+    {
+        "id": "282",
+        "text": "All Pok\u00e9mon's Defense and Special Defense are swapped for 5 turns."
+    },
+    {
+        "id": "283",
+        "text": "Inflicts damage based on the target's Defense, not Special Defense."
+    },
+    {
+        "id": "284",
+        "text": "Inflicts double damage if the target is Poisoned."
+    },
+    {
+        "id": "285",
+        "text": "Raises the user's Speed by two stages and halves the user's weight."
+    },
+    {
+        "id": "286",
+        "text": "Moves have 100% accuracy against the target for three turns."
+    },
+    {
+        "id": "287",
+        "text": "Negates held items for five turns."
+    },
+    {
+        "id": "288",
+        "text": "Removes any immunity to Ground damage."
+    },
+    {
+        "id": "289",
+        "text": "Always scores a critical hit."
+    },
+    {
+        "id": "290",
+        "text": "Deals splash damage to Pok\u00e9mon next to the target."
+    },
+    {
+        "id": "291",
+        "text": "Raises the user's Special Attack, Special Defense, and Speed by one stage each."
+    },
+    {
+        "id": "292",
+        "text": "Power is higher when the user weighs more than the target, up to a maximum of 120."
+    },
+    {
+        "id": "293",
+        "text": "Hits any Pok\u00e9mon that shares a type with the user."
+    },
+    {
+        "id": "294",
+        "text": "Power is higher when the user has greater Speed than the target, up to a maximum of 150."
+    },
+    {
+        "id": "295",
+        "text": "Changes the target's type to Water."
+    },
+    {
+        "id": "296",
+        "text": "Inflicts regular damage.  Raises the user's Speed by one stage."
+    },
+    {
+        "id": "297",
+        "text": "Lowers the target's Special Defense by two stages."
+    },
+    {
+        "id": "298",
+        "text": "Calculates damage with the target's attacking stat."
+    },
+    {
+        "id": "299",
+        "text": "Changes the target's ability to Simple."
+    },
+    {
+        "id": "300",
+        "text": "Copies the user's ability onto the target."
+    },
+    {
+        "id": "301",
+        "text": "Makes the target act next this turn."
+    },
+    {
+        "id": "302",
+        "text": "Has double power if it's used more than once per turn."
+    },
+    {
+        "id": "303",
+        "text": "Power increases by 100% for each consecutive use by any friendly Pok\u00e9mon, to a maximum of 200."
+    },
+    {
+        "id": "304",
+        "text": "Ignores the target's stat modifiers."
+    },
+    {
+        "id": "305",
+        "text": "Removes all of the target's stat modifiers."
+    },
+    {
+        "id": "306",
+        "text": "Power is higher the more the user's stats have been raised, to a maximum of 31\u00d7."
+    },
+    {
+        "id": "307",
+        "text": "Prevents any priority moves from hitting friendly Pok\u00e9mon this turn."
+    },
+    {
+        "id": "308",
+        "text": "User switches places with the friendly Pok\u00e9mon opposite it."
+    },
+    {
+        "id": "309",
+        "text": "Raises user's Attack, Special Attack, and Speed by two stages.  Lower user's Defense and Special Defense by one stage."
+    },
+    {
+        "id": "310",
+        "text": "Heals the target for half its max HP."
+    },
+    {
+        "id": "311",
+        "text": "Has double power if the target has a major status ailment."
+    },
+    {
+        "id": "312",
+        "text": "Carries the target high into the air, dodging all attacks against either, and drops it next turn."
+    },
+    {
+        "id": "313",
+        "text": "Raises the user's Attack by one stage and its Speed by two stages."
+    },
+    {
+        "id": "314",
+        "text": "Ends wild battles.  Forces trainers to switch Pok\u00e9mon."
+    },
+    {
+        "id": "315",
+        "text": "Destroys the target's held berry."
+    },
+    {
+        "id": "316",
+        "text": "Makes the target act last this turn."
+    },
+    {
+        "id": "317",
+        "text": "Raises the user's Attack and Special Attack by one stage."
+    },
+    {
+        "id": "318",
+        "text": "Has double power if the user has no held item."
+    },
+    {
+        "id": "319",
+        "text": "User becomes the target's type."
+    },
+    {
+        "id": "320",
+        "text": "Has double power if a friendly Pok\u00e9mon fainted last turn."
+    },
+    {
+        "id": "321",
+        "text": "Inflicts damage equal to the user's remaining HP.  User faints."
+    },
+    {
+        "id": "322",
+        "text": "Raises the user's Special Attack by three stages."
+    },
+    {
+        "id": "323",
+        "text": "Raises the user's Attack, Defense, and accuracy by one stage each."
+    },
+    {
+        "id": "324",
+        "text": "Gives the user's held item to the target."
+    },
+    {
+        "id": "325",
+        "text": "With [Grass Pledge]{move:grass-pledge}, halves opposing Pok\u00e9mon's Speed for four turns."
+    },
+    {
+        "id": "326",
+        "text": "With [Water Pledge]{move:water-pledge}, doubles the effect chance of friendly Pok\u00e9mon's moves for four turns."
+    },
+    {
+        "id": "327",
+        "text": "With [Fire Pledge]{move:fire-pledge}, damages opposing Pok\u00e9mon for 1/8 their max HP every turn for four turns."
+    },
+    {
+        "id": "328",
+        "text": "Raises the user's Attack and Special Attack by one stage each."
+    },
+    {
+        "id": "329",
+        "text": "Raises the user's Defense by three stages."
+    },
+    {
+        "id": "330",
+        "text": "Has a $effect_chance% chance to put the target to sleep."
+    },
+    {
+        "id": "331",
+        "text": "Lowers the target's Speed by one stage."
+    },
+    {
+        "id": "332",
+        "text": "Requires a turn to charge before attacking.  Has a $effect_chance% chance to paralyze the target."
+    },
+    {
+        "id": "333",
+        "text": "Requires a turn to charge before attacking.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target."
+    },
+    {
+        "id": "334",
+        "text": "Has a $effect_chance% chance to confuse the target."
+    },
+    {
+        "id": "335",
+        "text": "Lowers the user's Defense, Special Defense, and Speed by one stage each."
+    },
+    {
+        "id": "336",
+        "text": "With [Fusion Bolt]{move:fusion-bolt}, inflicts double damage."
+    },
+    {
+        "id": "337",
+        "text": "With [Fusion Flare]{move:fusion-flare}, inflicts double damage."
+    },
+    {
+        "id": "338",
+        "text": "Deals both []{type:fighting} and []{type:flying}-type damage."
+    },
+    {
+        "id": "339",
+        "text": "Can only be used after the user has eaten a berry."
+    },
+    {
+        "id": "340",
+        "text": "Raises the Attack and Special Attack of all []{type:grass} Pok\u00e9mon in battle."
+    },
+    {
+        "id": "341",
+        "text": "Covers the opposing field, lowering opponents' Speed by one stage upon switching in."
+    },
+    {
+        "id": "342",
+        "text": "Raises the user's Attack by two stages if it KOs the target."
+    },
+    {
+        "id": "343",
+        "text": "Adds []{type:ghost} to the target's types."
+    },
+    {
+        "id": "344",
+        "text": "Lowers the target's Attack and Special Attack by one stage."
+    },
+    {
+        "id": "345",
+        "text": "Changes all []{type:normal} moves to []{type:electric} moves for the rest of the turn."
+    },
+    {
+        "id": "346",
+        "text": "Heals the user for half the total damage dealt to all targets."
+    },
+    {
+        "id": "347",
+        "text": "Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out."
+    },
+    {
+        "id": "348",
+        "text": "Inverts the target's stat modifiers."
+    },
+    {
+        "id": "349",
+        "text": "Drains 75% of the damage inflicted to heal the user."
+    },
+    {
+        "id": "350",
+        "text": "Protects all friendly Pok\u00e9mon from non-damaging moves."
+    },
+    {
+        "id": "351",
+        "text": "Raises the Defense of all []{type:grass} Pok\u00e9mon in battle."
+    },
+    {
+        "id": "352",
+        "text": "For five turns, heals all Pok\u00e9mon on the ground for 1/16 max HP each turn and strengthens their []{type:grass} moves to 1.5\u00d7 their power."
+    },
+    {
+        "id": "353",
+        "text": "For five turns, protects all Pok\u00e9mon on the ground from major status ailments and confusion, and halves the power of incoming []{type:dragon} moves."
+    },
+    {
+        "id": "354",
+        "text": "Changes the target's move's type to []{type:electric} if it hasn't moved yet this turn."
+    },
+    {
+        "id": "355",
+        "text": "Prevents all Pok\u00e9mon from fleeing or switching out during the next turn."
+    },
+    {
+        "id": "356",
+        "text": "Blocks damaging attacks and lowers attacking Pok\u00e9mon's Attack by two stages on contact.  Switches Aegislash to Shield Forme."
+    },
+    {
+        "id": "357",
+        "text": "Lowers the target's Attack by one stage."
+    },
+    {
+        "id": "358",
+        "text": "Lowers the target's Special Attack by one stage."
+    },
+    {
+        "id": "359",
+        "text": "Has a $effect_chance% chance to raise the user's Defense by two stages for each target hit."
+    },
+    {
+        "id": "360",
+        "text": "Ignores and destroys protection effects."
+    },
+    {
+        "id": "361",
+        "text": "Hits 2\u20135 times."
+    },
+    {
+        "id": "362",
+        "text": "Blocks damaging attacks and damages attacking Pok\u00e9mon for 1/8 their max HP."
+    },
+    {
+        "id": "363",
+        "text": "Raises a selected ally's Special Defense by one stage."
+    },
+    {
+        "id": "364",
+        "text": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+    },
+    {
+        "id": "365",
+        "text": "Lowers the target's Attack by one stage."
+    },
+    {
+        "id": "366",
+        "text": "Takes one turn to charge, then raises the user's Special Attack, Special Defense, and Speed by two stages."
+    },
+    {
+        "id": "367",
+        "text": "Raises the Defense and Special Defense of all friendly Pok\u00e9mon with []{ability:plus} or []{ability:minus} by one stage."
+    },
+    {
+        "id": "368",
+        "text": "Doubles prize money."
+    },
+    {
+        "id": "369",
+        "text": "For five turns, prevents all Pok\u00e9mon on the ground from sleeping and strengthens their []{type:electric} moves to 1.5\u00d7 their power."
+    },
+    {
+        "id": "370",
+        "text": "Does nothing."
+    },
+    {
+        "id": "371",
+        "text": "Does nothing."
+    },
+    {
+        "id": "372",
+        "text": "Has a $effect_chance% chance to paralyze the target."
+    },
+    {
+        "id": "373",
+        "text": "Grounds the target, and hits even Flying-type or levitating Pok\u00e9mon."
+    },
+    {
+        "id": "374",
+        "text": "Prevents the target from leaving battle."
+    },
+    {
+        "id": "375",
+        "text": "Raises the user's Attack by one stage after inflicting damage."
+    },
+    {
+        "id": "376",
+        "text": "Adds []{type:grass} to the target's types."
+    },
+    {
+        "id": "377",
+        "text": "Protects all friendly Pok\u00e9mon from damaging moves.  Only works on the first turn after the user is sent out."
+    },
+    {
+        "id": "378",
+        "text": "Explodes if the target uses a []{type:fire} move this turn, damaging it for 1/4 its max HP and preventing the move."
+    },
+    {
+        "id": "379",
+        "text": "Inflicts regular damage."
+    },
+    {
+        "id": "380",
+        "text": "Super-effective against []{type:water}."
+    },
+    {
+        "id": "381",
+        "text": "Never misses."
+    },
+    {
+        "id": "382",
+        "text": "Heals the user for \u00bd its max HP, or \u2154 during a sandstorm."
+    },
+    {
+        "id": "383",
+        "text": "Can only be used as the first move after the user enters battle."
+    },
+    {
+        "id": "384",
+        "text": "Grants the user protection for the rest of the turn and poisons any Pok\u00e9mon that tries to use a contact move on it."
+    },
+    {
+        "id": "385",
+        "text": "Traps the target."
+    },
+    {
+        "id": "386",
+        "text": "Cures the target of burns."
+    },
+    {
+        "id": "387",
+        "text": "Heals the target for \u00bd its max HP, or \u2154 on Grassy Terrain."
+    },
+    {
+        "id": "388",
+        "text": "Heals the user by the target's current Attack stat and lowers the target's Attack by one stage."
+    },
+    {
+        "id": "389",
+        "text": "Forces the target's opponents to aim at the target for the rest of the turn."
+    },
+    {
+        "id": "390",
+        "text": "Poisons the target and lowers its Speed by one stage."
+    },
+    {
+        "id": "391",
+        "text": "Guarantees a critical hit with the user's next move."
+    },
+    {
+        "id": "392",
+        "text": "Raises the Attack and Special Attack of all friendly Pok\u00e9mon with []{ability:plus} or []{ability:minus} by one stage."
+    },
+    {
+        "id": "393",
+        "text": "Prevents the target from using sound-based moves for two turns."
+    },
+    {
+        "id": "394",
+        "text": "Damages opponents, but heals allies for 50% of their max HP."
+    },
+    {
+        "id": "395",
+        "text": "Protects Pok\u00e9mon on the ground from priority moves and increases the power of their  Psychic moves by 50%."
+    },
+    {
+        "id": "396",
+        "text": "Lowers the target's Attack by one stage after inflicting damage."
+    },
+    {
+        "id": "397",
+        "text": "Lowers the target's Defense by one stage after inflicting damage."
+    },
+    {
+        "id": "398",
+        "text": "Removes the user's []{type:fire} type after inflicting damage."
+    },
+    {
+        "id": "399",
+        "text": "Exchanges the user's Speed with the target's."
+    },
+    {
+        "id": "400",
+        "text": "Cures the target of a major status ailment and heals the user for 50% of its max HP."
+    },
+    {
+        "id": "401",
+        "text": "Has the same type as the user."
+    },
+    {
+        "id": "402",
+        "text": "Nullifies the target's ability if it moves earlier."
+    },
+    {
+        "id": "403",
+        "text": "Forces the target to repeat its last used move."
+    },
+    {
+        "id": "404",
+        "text": "Inflicts a burn on any Pok\u00e9mon that makes contact before the attack."
+    },
+    {
+        "id": "405",
+        "text": "Lowers the user's Defense by one stage after inflicting damage."
+    },
+    {
+        "id": "406",
+        "text": "Inflicts regular damage with no additional effect."
+    },
+    {
+        "id": "407",
+        "text": "Reduces damage five turns, but must be used during hail."
+    },
+    {
+        "id": "408",
+        "text": "Only inflicts damage if the user was hit by a physical move this turn."
+    },
+    {
+        "id": "409",
+        "text": "Has double power if the user's last move failed."
+    },
+    {
+        "id": "410",
+        "text": "Steals the target's stat increases, then inflicts damage."
+    },
+    {
+        "id": "411",
+        "text": "Cannot be disrupted by abilities."
+    },
+    {
+        "id": "412",
+        "text": "Lowers the target's Attack and Special Attack by one stage."
+    },
+    {
+        "id": "413",
+        "text": "Damages the target for 75% of its remaining HP."
+    },
+    {
+        "id": "414",
+        "text": "Raises all of the user's stats by two stages."
+    },
+    {
+        "id": "415",
+        "text": "Changes the terrain to Psychic Terrain after inflicting damage."
+    },
+    {
+        "id": "416",
+        "text": "XXX new effect for light-that-burns-the-sky"
+    },
+    {
+        "id": "417",
+        "text": "XXX new effect for lets-snuggle-forever"
+    },
+    {
+        "id": "418",
+        "text": "XXX new effect for splintered-stormshards"
+    },
+    {
+        "id": "419",
+        "text": "XXX new effect for clangorous-soulblaze"
+    },
+    {
+        "id": "420",
+        "text": "XXX new effect for mind-blown"
+    },
+    {
+        "id": "421",
+        "text": "XXX new effect for dynamax-cannon"
+    },
+    {
+        "id": "422",
+        "text": "XXX new effect for snipe-shot"
+    },
+    {
+        "id": "423",
+        "text": "XXX new effect for jaw-lock"
+    },
+    {
+        "id": "424",
+        "text": "XXX new effect for stuff-cheeks"
+    },
+    {
+        "id": "425",
+        "text": "XXX new effect for no-retreat"
+    },
+    {
+        "id": "426",
+        "text": "XXX new effect for tar-shot"
+    },
+    {
+        "id": "427",
+        "text": "XXX new effect for magic-powder"
+    },
+    {
+        "id": "428",
+        "text": "XXX new effect for dragon-darts"
+    },
+    {
+        "id": "429",
+        "text": "XXX new effect for teatime"
+    },
+    {
+        "id": "430",
+        "text": "XXX new effect for octolock"
+    },
+    {
+        "id": "431",
+        "text": "XXX new effect for bolt-beak"
+    },
+    {
+        "id": "432",
+        "text": "XXX new effect for court-change"
+    },
+    {
+        "id": "433",
+        "text": "XXX new effect for clangorous-soul"
+    },
+    {
+        "id": "434",
+        "text": "XXX new effect for body-press"
+    },
+    {
+        "id": "435",
+        "text": "XXX new effect for decorate"
+    },
+    {
+        "id": "436",
+        "text": "XXX new effect for behemoth-blade"
+    },
+    {
+        "id": "437",
+        "text": "XXX new effect for aura-wheel"
+    },
+    {
+        "id": "439",
+        "text": "XXX new effect for overdrive"
+    },
+    {
+        "id": "440",
+        "text": "XXX new effect for apple-acid"
+    },
+    {
+        "id": "441",
+        "text": "XXX new effect for life-dew"
+    },
+    {
+        "id": "442",
+        "text": "XXX new effect for obstruct"
+    },
+    {
+        "id": "10001",
+        "text": "Has an increased chance for a critical hit in Hyper Mode."
+    },
+    {
+        "id": "10002",
+        "text": "User receives 1/2 its HP in recoil."
+    },
+    {
+        "id": "10003",
+        "text": "Halves HP of all Pok\u00e9mon on the field.  Must recharge"
+    },
+    {
+        "id": "10004",
+        "text": "Lowers the target's evasion by two stages."
+    },
+    {
+        "id": "10005",
+        "text": "Removes [Light Screen]{move:light-screen}, [Reflect]{move:reflect}, and [Safeguard]{move:safeguard}."
+    },
+    {
+        "id": "10006",
+        "text": "Changes the weather to Shadow Sky for five turns."
+    }
+]
